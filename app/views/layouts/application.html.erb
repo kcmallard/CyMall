@@ -1,14 +1,23 @@
 <!DOCTYPE html>
 <html>
-<head>
-  <title>Mallard Security</title>
-  <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track' => true %>
-  <%= javascript_include_tag 'application', 'data-turbolinks-track' => true %>
-  <%= csrf_meta_tags %>
-</head>
-<body>
 
-<%= yield %>
+	<nav class="navbar navbar-default navbar-inverse navbar-fixed-top">
+		<div class="container">
+			<a class="navbar-brand" href="/pages/home">Home</a>
+			<a class="navbar-brand" href="/pages/about">About</a>
+			<a class="navbar-brand" href="/pages/contact">Contact</a>
+		</div>
+	</nav>
 
-</body>
+	<head>
+		<title>Mallard Security</title>
+  			<%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track' => true %>
+  			<%= javascript_include_tag 'application', 'data-turbolinks-track' => true %>
+  			<%= csrf_meta_tags %>
+	</head>
+
+	<body>
+		<%= yield %>
+	</body>
+	
 </html>
