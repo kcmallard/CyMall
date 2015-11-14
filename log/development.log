@@ -9608,3 +9608,2748 @@ Started GET "/pages/home" for 127.0.0.1 at 2015-11-13 19:05:49 -0600
 Processing by PagesController#home as HTML
   Rendered pages/home.html.erb within layouts/application (0.4ms)
 Completed 200 OK in 123ms (Views: 122.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/home" for 127.0.0.1 at 2015-11-14 12:51:51 -0600
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (1.9ms)
+Completed 200 OK in 799ms (Views: 764.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/pages.self-b334e6acc323a528f993c35d90c92fa0b33231a5fa6bfd3f79c16498c90d7dde.css?body=1" for 127.0.0.1 at 2015-11-14 12:51:54 -0600
+
+
+Started GET "/assets/sec.jpg" for 127.0.0.1 at 2015-11-14 12:51:54 -0600
+
+
+Started GET "/pages/about" for 127.0.0.1 at 2015-11-14 12:51:56 -0600
+Processing by PagesController#about as HTML
+  Rendered pages/about.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 181ms (Views: 180.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/contact" for 127.0.0.1 at 2015-11-14 12:51:56 -0600
+Processing by PagesController#contact as HTML
+  Rendered pages/contact.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 138ms (Views: 137.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/home" for 127.0.0.1 at 2015-11-14 12:51:57 -0600
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 121ms (Views: 120.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/home" for 127.0.0.1 at 2015-11-14 12:52:07 -0600
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 509ms (Views: 508.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/about" for 127.0.0.1 at 2015-11-14 12:52:07 -0600
+Processing by PagesController#about as HTML
+  Rendered pages/about.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 127ms (Views: 125.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/contact" for 127.0.0.1 at 2015-11-14 12:52:08 -0600
+Processing by PagesController#contact as HTML
+  Rendered pages/contact.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 114ms (Views: 113.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/home" for 127.0.0.1 at 2015-11-14 12:52:08 -0600
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 136ms (Views: 135.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/about" for 127.0.0.1 at 2015-11-14 12:52:11 -0600
+Processing by PagesController#about as HTML
+  Rendered pages/about.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 117ms (Views: 116.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/contact" for 127.0.0.1 at 2015-11-14 12:52:12 -0600
+Processing by PagesController#contact as HTML
+  Rendered pages/contact.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 119ms (Views: 117.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/home" for 127.0.0.1 at 2015-11-14 12:52:13 -0600
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 110ms (Views: 109.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/home" for 127.0.0.1 at 2015-11-14 13:02:09 -0600
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (1.3ms)
+Completed 200 OK in 4795ms (Views: 4786.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/pages.self-b334e6acc323a528f993c35d90c92fa0b33231a5fa6bfd3f79c16498c90d7dde.css?body=1" for 127.0.0.1 at 2015-11-14 13:02:14 -0600
+
+
+Started GET "/assets/profiles.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 127.0.0.1 at 2015-11-14 13:02:14 -0600
+
+
+Started GET "/assets/application.self-155c53dcc378f01c0b10c096419c6e1dd91826fbfcce9d530f37a1c147440f39.css?body=1" for 127.0.0.1 at 2015-11-14 13:02:14 -0600
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for 127.0.0.1 at 2015-11-14 13:02:14 -0600
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for 127.0.0.1 at 2015-11-14 13:02:14 -0600
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for 127.0.0.1 at 2015-11-14 13:02:14 -0600
+
+
+Started GET "/assets/bootstrap/affix.self-d2b642d8fbfc1d7041e2edefd66683ada567a980789dcd6f94fddda0b33408b5.js?body=1" for 127.0.0.1 at 2015-11-14 13:02:14 -0600
+
+
+Started GET "/assets/bootstrap/alert.self-a29e91e8cd3ddaba9bbc466901d53ec2127e9256b9b941905d525a3a716bd1a5.js?body=1" for 127.0.0.1 at 2015-11-14 13:02:14 -0600
+
+
+Started GET "/assets/bootstrap/button.self-a6cb16785434acb365ae426aef9f1fce05ed553cae7a965e4471c3da71509175.js?body=1" for 127.0.0.1 at 2015-11-14 13:02:14 -0600
+
+
+Started GET "/assets/bootstrap/carousel.self-57eb8422043cf0a85b7a9dc6843916eb0a3e35b419c7798a5eb254b918997631.js?body=1" for 127.0.0.1 at 2015-11-14 13:02:14 -0600
+
+
+Started GET "/assets/bootstrap/collapse.self-7dc8bfbc2fbfabd2bad62c58ff8ffeaf8f20fb87c7ca6cd35f06d4dc19632587.js?body=1" for 127.0.0.1 at 2015-11-14 13:02:14 -0600
+
+
+Started GET "/assets/bootstrap/dropdown.self-9314126777c6be5443e37ea7f7967d7914d72b3e60449ba50edc967446373059.js?body=1" for 127.0.0.1 at 2015-11-14 13:02:14 -0600
+
+
+Started GET "/assets/bootstrap/tab.self-122235057fbd4c6c7da377d59dc58f47b44cb1088a2e38e6ee6ce9d8ac29a26a.js?body=1" for 127.0.0.1 at 2015-11-14 13:02:14 -0600
+
+
+Started GET "/assets/bootstrap/transition.self-09ff30b1e8a93d1f7728b9855f55d9c9d8d5734c8861e0d8139994e50944572a.js?body=1" for 127.0.0.1 at 2015-11-14 13:02:14 -0600
+
+
+Started GET "/assets/bootstrap/scrollspy.self-a155b9d4b2f978905f0326c0f6635e1134fe91c6bfbfcbad079fa24a9fef2b0e.js?body=1" for 127.0.0.1 at 2015-11-14 13:02:14 -0600
+
+
+Started GET "/assets/bootstrap/modal.self-72f95ffa1071297725a9ac91989693d56d1abf23f441a47455073b0da2857a5b.js?body=1" for 127.0.0.1 at 2015-11-14 13:02:14 -0600
+
+
+Started GET "/assets/bootstrap/tooltip.self-11cf547be953f25f511cec668f6690473fd97b2f65502e4032f4030999a3f0c3.js?body=1" for 127.0.0.1 at 2015-11-14 13:02:14 -0600
+
+
+Started GET "/assets/bootstrap/popover.self-77d8e3a2499c1104ef146396a68b82469ee2bdb365199b874694698d10405e9a.js?body=1" for 127.0.0.1 at 2015-11-14 13:02:14 -0600
+
+
+Started GET "/assets/bootstrap-sprockets.self-fbfa5ad7d9aa0afe439ec4ff3883acc4cb92b62cb67c40d674320c9aa1d4642d.js?body=1" for 127.0.0.1 at 2015-11-14 13:02:14 -0600
+
+
+Started GET "/assets/pages.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 127.0.0.1 at 2015-11-14 13:02:14 -0600
+
+
+Started GET "/assets/profiles.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 127.0.0.1 at 2015-11-14 13:02:14 -0600
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for 127.0.0.1 at 2015-11-14 13:02:14 -0600
+
+
+Started GET "/assets/sec.jpg" for 127.0.0.1 at 2015-11-14 13:02:15 -0600
+
+
+Started GET "/pages/profiles" for 127.0.0.1 at 2015-11-14 13:02:20 -0600
+Processing by PagesController#profiles as HTML
+  Rendered pages/profiles.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 134ms (Views: 133.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/sec.jpg" for 127.0.0.1 at 2015-11-14 13:02:20 -0600
+
+
+Started GET "/pages/profiles" for 127.0.0.1 at 2015-11-14 13:03:08 -0600
+Processing by PagesController#profiles as HTML
+  Rendered pages/profiles.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 156ms (Views: 154.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/sec.jpg" for 127.0.0.1 at 2015-11-14 13:03:08 -0600
+
+
+Started GET "/pages/profiles" for 127.0.0.1 at 2015-11-14 13:03:37 -0600
+Processing by PagesController#profiles as HTML
+  Rendered pages/profiles.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 170ms (Views: 168.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for 127.0.0.1 at 2015-11-14 13:03:37 -0600
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for 127.0.0.1 at 2015-11-14 13:03:37 -0600
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for 127.0.0.1 at 2015-11-14 13:03:37 -0600
+
+
+Started GET "/assets/profiles.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 127.0.0.1 at 2015-11-14 13:03:38 -0600
+
+
+Started GET "/assets/application.self-155c53dcc378f01c0b10c096419c6e1dd91826fbfcce9d530f37a1c147440f39.css?body=1" for 127.0.0.1 at 2015-11-14 13:03:38 -0600
+
+
+Started GET "/assets/pages.self-b334e6acc323a528f993c35d90c92fa0b33231a5fa6bfd3f79c16498c90d7dde.css?body=1" for 127.0.0.1 at 2015-11-14 13:03:38 -0600
+
+
+Started GET "/assets/bootstrap/affix.self-d2b642d8fbfc1d7041e2edefd66683ada567a980789dcd6f94fddda0b33408b5.js?body=1" for 127.0.0.1 at 2015-11-14 13:03:38 -0600
+
+
+Started GET "/assets/bootstrap/carousel.self-57eb8422043cf0a85b7a9dc6843916eb0a3e35b419c7798a5eb254b918997631.js?body=1" for 127.0.0.1 at 2015-11-14 13:03:38 -0600
+
+
+Started GET "/assets/bootstrap/alert.self-a29e91e8cd3ddaba9bbc466901d53ec2127e9256b9b941905d525a3a716bd1a5.js?body=1" for 127.0.0.1 at 2015-11-14 13:03:38 -0600
+
+
+Started GET "/assets/bootstrap/button.self-a6cb16785434acb365ae426aef9f1fce05ed553cae7a965e4471c3da71509175.js?body=1" for 127.0.0.1 at 2015-11-14 13:03:38 -0600
+
+
+Started GET "/assets/bootstrap/collapse.self-7dc8bfbc2fbfabd2bad62c58ff8ffeaf8f20fb87c7ca6cd35f06d4dc19632587.js?body=1" for 127.0.0.1 at 2015-11-14 13:03:38 -0600
+
+
+Started GET "/assets/bootstrap/dropdown.self-9314126777c6be5443e37ea7f7967d7914d72b3e60449ba50edc967446373059.js?body=1" for 127.0.0.1 at 2015-11-14 13:03:38 -0600
+
+
+Started GET "/assets/bootstrap/tab.self-122235057fbd4c6c7da377d59dc58f47b44cb1088a2e38e6ee6ce9d8ac29a26a.js?body=1" for 127.0.0.1 at 2015-11-14 13:03:38 -0600
+
+
+Started GET "/assets/bootstrap/transition.self-09ff30b1e8a93d1f7728b9855f55d9c9d8d5734c8861e0d8139994e50944572a.js?body=1" for 127.0.0.1 at 2015-11-14 13:03:38 -0600
+
+
+Started GET "/assets/bootstrap/scrollspy.self-a155b9d4b2f978905f0326c0f6635e1134fe91c6bfbfcbad079fa24a9fef2b0e.js?body=1" for 127.0.0.1 at 2015-11-14 13:03:38 -0600
+
+
+Started GET "/assets/bootstrap/modal.self-72f95ffa1071297725a9ac91989693d56d1abf23f441a47455073b0da2857a5b.js?body=1" for 127.0.0.1 at 2015-11-14 13:03:38 -0600
+
+
+Started GET "/assets/bootstrap/tooltip.self-11cf547be953f25f511cec668f6690473fd97b2f65502e4032f4030999a3f0c3.js?body=1" for 127.0.0.1 at 2015-11-14 13:03:38 -0600
+
+
+Started GET "/assets/pages.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 127.0.0.1 at 2015-11-14 13:03:38 -0600
+
+
+Started GET "/assets/bootstrap-sprockets.self-fbfa5ad7d9aa0afe439ec4ff3883acc4cb92b62cb67c40d674320c9aa1d4642d.js?body=1" for 127.0.0.1 at 2015-11-14 13:03:38 -0600
+
+
+Started GET "/assets/bootstrap/popover.self-77d8e3a2499c1104ef146396a68b82469ee2bdb365199b874694698d10405e9a.js?body=1" for 127.0.0.1 at 2015-11-14 13:03:38 -0600
+
+
+Started GET "/assets/profiles.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 127.0.0.1 at 2015-11-14 13:03:38 -0600
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for 127.0.0.1 at 2015-11-14 13:03:38 -0600
+
+
+Started GET "/assets/sec.jpg" for 127.0.0.1 at 2015-11-14 13:03:38 -0600
+
+
+Started GET "/pages/profiles" for 127.0.0.1 at 2015-11-14 13:03:39 -0600
+Processing by PagesController#profiles as HTML
+  Rendered pages/profiles.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 136ms (Views: 135.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/contact" for 127.0.0.1 at 2015-11-14 13:03:39 -0600
+Processing by PagesController#contact as HTML
+  Rendered pages/contact.html.erb within layouts/application (0.9ms)
+Completed 200 OK in 168ms (Views: 167.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/profiles" for 127.0.0.1 at 2015-11-14 13:03:40 -0600
+Processing by PagesController#profiles as HTML
+  Rendered pages/profiles.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 115ms (Views: 114.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/home" for 127.0.0.1 at 2015-11-14 13:03:41 -0600
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 118ms (Views: 117.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/about" for 127.0.0.1 at 2015-11-14 13:04:12 -0600
+Processing by PagesController#about as HTML
+  Rendered pages/about.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 120ms (Views: 119.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/contact" for 127.0.0.1 at 2015-11-14 13:04:13 -0600
+Processing by PagesController#contact as HTML
+  Rendered pages/contact.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 114ms (Views: 113.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/profiles" for 127.0.0.1 at 2015-11-14 13:04:13 -0600
+Processing by PagesController#profiles as HTML
+  Rendered pages/profiles.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 118ms (Views: 117.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/home" for 127.0.0.1 at 2015-11-14 13:04:14 -0600
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 102ms (Views: 101.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/about" for 127.0.0.1 at 2015-11-14 13:12:10 -0600
+Processing by PagesController#about as HTML
+  Rendered pages/about.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 126ms (Views: 125.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/contact" for 127.0.0.1 at 2015-11-14 13:12:10 -0600
+Processing by PagesController#contact as HTML
+  Rendered pages/contact.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 121ms (Views: 120.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/profiles" for 127.0.0.1 at 2015-11-14 13:12:11 -0600
+Processing by PagesController#profiles as HTML
+  Rendered pages/profiles.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 112ms (Views: 111.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/home" for 127.0.0.1 at 2015-11-14 13:12:12 -0600
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 101ms (Views: 100.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/profiles" for 127.0.0.1 at 2015-11-14 13:22:53 -0600
+Processing by PagesController#profiles as HTML
+  Rendered pages/profiles.html.erb within layouts/application (1.3ms)
+Completed 200 OK in 474ms (Views: 464.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/Profile.jpg" for 127.0.0.1 at 2015-11-14 13:22:54 -0600
+
+
+Started GET "/assets/ethan.jpg" for 127.0.0.1 at 2015-11-14 13:22:54 -0600
+
+
+Started GET "/assets/longley.jpg" for 127.0.0.1 at 2015-11-14 13:22:54 -0600
+
+
+Started GET "/pages/profiles" for 127.0.0.1 at 2015-11-14 13:24:01 -0600
+Processing by PagesController#profiles as HTML
+  Rendered pages/profiles.html.erb within layouts/application (2.1ms)
+Completed 200 OK in 153ms (Views: 152.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/profiles" for 127.0.0.1 at 2015-11-14 13:24:03 -0600
+Processing by PagesController#profiles as HTML
+  Rendered pages/profiles.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 113ms (Views: 112.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/profiles" for 127.0.0.1 at 2015-11-14 13:24:04 -0600
+Processing by PagesController#profiles as HTML
+  Rendered pages/profiles.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 150ms (Views: 149.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/pages.self-b334e6acc323a528f993c35d90c92fa0b33231a5fa6bfd3f79c16498c90d7dde.css?body=1" for 127.0.0.1 at 2015-11-14 13:24:05 -0600
+
+
+Started GET "/assets/profiles.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 127.0.0.1 at 2015-11-14 13:24:05 -0600
+
+
+Started GET "/assets/application.self-155c53dcc378f01c0b10c096419c6e1dd91826fbfcce9d530f37a1c147440f39.css?body=1" for 127.0.0.1 at 2015-11-14 13:24:05 -0600
+
+
+Started GET "/assets/bootstrap/affix.self-d2b642d8fbfc1d7041e2edefd66683ada567a980789dcd6f94fddda0b33408b5.js?body=1" for 127.0.0.1 at 2015-11-14 13:24:05 -0600
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for 127.0.0.1 at 2015-11-14 13:24:05 -0600
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for 127.0.0.1 at 2015-11-14 13:24:05 -0600
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for 127.0.0.1 at 2015-11-14 13:24:05 -0600
+
+
+Started GET "/assets/bootstrap/alert.self-a29e91e8cd3ddaba9bbc466901d53ec2127e9256b9b941905d525a3a716bd1a5.js?body=1" for 127.0.0.1 at 2015-11-14 13:24:05 -0600
+
+
+Started GET "/assets/bootstrap/carousel.self-57eb8422043cf0a85b7a9dc6843916eb0a3e35b419c7798a5eb254b918997631.js?body=1" for 127.0.0.1 at 2015-11-14 13:24:05 -0600
+
+
+Started GET "/assets/bootstrap/button.self-a6cb16785434acb365ae426aef9f1fce05ed553cae7a965e4471c3da71509175.js?body=1" for 127.0.0.1 at 2015-11-14 13:24:05 -0600
+
+
+Started GET "/assets/bootstrap/collapse.self-7dc8bfbc2fbfabd2bad62c58ff8ffeaf8f20fb87c7ca6cd35f06d4dc19632587.js?body=1" for 127.0.0.1 at 2015-11-14 13:24:05 -0600
+
+
+Started GET "/assets/bootstrap/dropdown.self-9314126777c6be5443e37ea7f7967d7914d72b3e60449ba50edc967446373059.js?body=1" for 127.0.0.1 at 2015-11-14 13:24:05 -0600
+
+
+Started GET "/assets/bootstrap/tab.self-122235057fbd4c6c7da377d59dc58f47b44cb1088a2e38e6ee6ce9d8ac29a26a.js?body=1" for 127.0.0.1 at 2015-11-14 13:24:05 -0600
+
+
+Started GET "/assets/bootstrap/transition.self-09ff30b1e8a93d1f7728b9855f55d9c9d8d5734c8861e0d8139994e50944572a.js?body=1" for 127.0.0.1 at 2015-11-14 13:24:05 -0600
+
+
+Started GET "/assets/bootstrap/scrollspy.self-a155b9d4b2f978905f0326c0f6635e1134fe91c6bfbfcbad079fa24a9fef2b0e.js?body=1" for 127.0.0.1 at 2015-11-14 13:24:05 -0600
+
+
+Started GET "/assets/bootstrap/modal.self-72f95ffa1071297725a9ac91989693d56d1abf23f441a47455073b0da2857a5b.js?body=1" for 127.0.0.1 at 2015-11-14 13:24:05 -0600
+
+
+Started GET "/assets/bootstrap/tooltip.self-11cf547be953f25f511cec668f6690473fd97b2f65502e4032f4030999a3f0c3.js?body=1" for 127.0.0.1 at 2015-11-14 13:24:05 -0600
+
+
+Started GET "/assets/bootstrap/popover.self-77d8e3a2499c1104ef146396a68b82469ee2bdb365199b874694698d10405e9a.js?body=1" for 127.0.0.1 at 2015-11-14 13:24:05 -0600
+
+
+Started GET "/assets/bootstrap-sprockets.self-fbfa5ad7d9aa0afe439ec4ff3883acc4cb92b62cb67c40d674320c9aa1d4642d.js?body=1" for 127.0.0.1 at 2015-11-14 13:24:05 -0600
+
+
+Started GET "/assets/pages.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 127.0.0.1 at 2015-11-14 13:24:05 -0600
+
+
+Started GET "/assets/profiles.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 127.0.0.1 at 2015-11-14 13:24:05 -0600
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for 127.0.0.1 at 2015-11-14 13:24:05 -0600
+
+
+Started GET "/assets/Profile.jpg" for 127.0.0.1 at 2015-11-14 13:24:05 -0600
+
+
+Started GET "/assets/ethan.jpg" for 127.0.0.1 at 2015-11-14 13:24:05 -0600
+
+
+Started GET "/assets/longley.jpg" for 127.0.0.1 at 2015-11-14 13:24:05 -0600
+
+
+Started GET "/assets/sec.jpg" for 127.0.0.1 at 2015-11-14 13:24:05 -0600
+
+
+Started GET "/pages/profiles" for 127.0.0.1 at 2015-11-14 13:24:37 -0600
+Processing by PagesController#profiles as HTML
+  Rendered pages/profiles.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 159ms (Views: 158.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for 127.0.0.1 at 2015-11-14 13:24:38 -0600
+
+
+Started GET "/assets/profiles.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 127.0.0.1 at 2015-11-14 13:24:38 -0600
+
+
+Started GET "/assets/pages.self-b334e6acc323a528f993c35d90c92fa0b33231a5fa6bfd3f79c16498c90d7dde.css?body=1" for 127.0.0.1 at 2015-11-14 13:24:38 -0600
+
+
+Started GET "/assets/application.self-155c53dcc378f01c0b10c096419c6e1dd91826fbfcce9d530f37a1c147440f39.css?body=1" for 127.0.0.1 at 2015-11-14 13:24:38 -0600
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for 127.0.0.1 at 2015-11-14 13:24:38 -0600
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for 127.0.0.1 at 2015-11-14 13:24:38 -0600
+
+
+Started GET "/assets/bootstrap/affix.self-d2b642d8fbfc1d7041e2edefd66683ada567a980789dcd6f94fddda0b33408b5.js?body=1" for 127.0.0.1 at 2015-11-14 13:24:38 -0600
+
+
+Started GET "/assets/bootstrap/alert.self-a29e91e8cd3ddaba9bbc466901d53ec2127e9256b9b941905d525a3a716bd1a5.js?body=1" for 127.0.0.1 at 2015-11-14 13:24:38 -0600
+
+
+Started GET "/assets/bootstrap/button.self-a6cb16785434acb365ae426aef9f1fce05ed553cae7a965e4471c3da71509175.js?body=1" for 127.0.0.1 at 2015-11-14 13:24:38 -0600
+
+
+Started GET "/assets/bootstrap/carousel.self-57eb8422043cf0a85b7a9dc6843916eb0a3e35b419c7798a5eb254b918997631.js?body=1" for 127.0.0.1 at 2015-11-14 13:24:38 -0600
+
+
+Started GET "/assets/bootstrap/collapse.self-7dc8bfbc2fbfabd2bad62c58ff8ffeaf8f20fb87c7ca6cd35f06d4dc19632587.js?body=1" for 127.0.0.1 at 2015-11-14 13:24:38 -0600
+
+
+Started GET "/assets/bootstrap/dropdown.self-9314126777c6be5443e37ea7f7967d7914d72b3e60449ba50edc967446373059.js?body=1" for 127.0.0.1 at 2015-11-14 13:24:38 -0600
+
+
+Started GET "/assets/bootstrap/tab.self-122235057fbd4c6c7da377d59dc58f47b44cb1088a2e38e6ee6ce9d8ac29a26a.js?body=1" for 127.0.0.1 at 2015-11-14 13:24:38 -0600
+
+
+Started GET "/assets/bootstrap/scrollspy.self-a155b9d4b2f978905f0326c0f6635e1134fe91c6bfbfcbad079fa24a9fef2b0e.js?body=1" for 127.0.0.1 at 2015-11-14 13:24:38 -0600
+
+
+Started GET "/assets/bootstrap/transition.self-09ff30b1e8a93d1f7728b9855f55d9c9d8d5734c8861e0d8139994e50944572a.js?body=1" for 127.0.0.1 at 2015-11-14 13:24:38 -0600
+
+
+Started GET "/assets/bootstrap/modal.self-72f95ffa1071297725a9ac91989693d56d1abf23f441a47455073b0da2857a5b.js?body=1" for 127.0.0.1 at 2015-11-14 13:24:38 -0600
+
+
+Started GET "/assets/bootstrap/tooltip.self-11cf547be953f25f511cec668f6690473fd97b2f65502e4032f4030999a3f0c3.js?body=1" for 127.0.0.1 at 2015-11-14 13:24:38 -0600
+
+
+Started GET "/assets/bootstrap/popover.self-77d8e3a2499c1104ef146396a68b82469ee2bdb365199b874694698d10405e9a.js?body=1" for 127.0.0.1 at 2015-11-14 13:24:38 -0600
+
+
+Started GET "/assets/bootstrap-sprockets.self-fbfa5ad7d9aa0afe439ec4ff3883acc4cb92b62cb67c40d674320c9aa1d4642d.js?body=1" for 127.0.0.1 at 2015-11-14 13:24:38 -0600
+
+
+Started GET "/assets/pages.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 127.0.0.1 at 2015-11-14 13:24:38 -0600
+
+
+Started GET "/assets/profiles.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 127.0.0.1 at 2015-11-14 13:24:38 -0600
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for 127.0.0.1 at 2015-11-14 13:24:38 -0600
+
+
+Started GET "/assets/Profile.jpg" for 127.0.0.1 at 2015-11-14 13:24:38 -0600
+
+
+Started GET "/assets/ethan.jpg" for 127.0.0.1 at 2015-11-14 13:24:38 -0600
+
+
+Started GET "/assets/longley.jpg" for 127.0.0.1 at 2015-11-14 13:24:38 -0600
+
+
+Started GET "/assets/sec.jpg" for 127.0.0.1 at 2015-11-14 13:24:38 -0600
+
+
+Started GET "/pages/profiles" for 127.0.0.1 at 2015-11-14 13:26:04 -0600
+Processing by PagesController#profiles as HTML
+  Rendered pages/profiles.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 3744ms (Views: 3743.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/pages.self-aa02ee44cab7a38eccd7e4096db2d8ff48b08c7b803ccffff3682c5e0db69b4f.css?body=1" for 127.0.0.1 at 2015-11-14 13:26:08 -0600
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for 127.0.0.1 at 2015-11-14 13:26:08 -0600
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for 127.0.0.1 at 2015-11-14 13:26:08 -0600
+
+
+Started GET "/assets/profiles.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 127.0.0.1 at 2015-11-14 13:26:08 -0600
+
+
+Started GET "/assets/application.self-155c53dcc378f01c0b10c096419c6e1dd91826fbfcce9d530f37a1c147440f39.css?body=1" for 127.0.0.1 at 2015-11-14 13:26:08 -0600
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for 127.0.0.1 at 2015-11-14 13:26:08 -0600
+
+
+Started GET "/assets/bootstrap/alert.self-a29e91e8cd3ddaba9bbc466901d53ec2127e9256b9b941905d525a3a716bd1a5.js?body=1" for 127.0.0.1 at 2015-11-14 13:26:08 -0600
+
+
+Started GET "/assets/bootstrap/affix.self-d2b642d8fbfc1d7041e2edefd66683ada567a980789dcd6f94fddda0b33408b5.js?body=1" for 127.0.0.1 at 2015-11-14 13:26:08 -0600
+
+
+Started GET "/assets/bootstrap/button.self-a6cb16785434acb365ae426aef9f1fce05ed553cae7a965e4471c3da71509175.js?body=1" for 127.0.0.1 at 2015-11-14 13:26:08 -0600
+
+
+Started GET "/assets/bootstrap/carousel.self-57eb8422043cf0a85b7a9dc6843916eb0a3e35b419c7798a5eb254b918997631.js?body=1" for 127.0.0.1 at 2015-11-14 13:26:08 -0600
+
+
+Started GET "/assets/bootstrap/collapse.self-7dc8bfbc2fbfabd2bad62c58ff8ffeaf8f20fb87c7ca6cd35f06d4dc19632587.js?body=1" for 127.0.0.1 at 2015-11-14 13:26:08 -0600
+
+
+Started GET "/assets/bootstrap/dropdown.self-9314126777c6be5443e37ea7f7967d7914d72b3e60449ba50edc967446373059.js?body=1" for 127.0.0.1 at 2015-11-14 13:26:08 -0600
+
+
+Started GET "/assets/bootstrap/tab.self-122235057fbd4c6c7da377d59dc58f47b44cb1088a2e38e6ee6ce9d8ac29a26a.js?body=1" for 127.0.0.1 at 2015-11-14 13:26:08 -0600
+
+
+Started GET "/assets/bootstrap/transition.self-09ff30b1e8a93d1f7728b9855f55d9c9d8d5734c8861e0d8139994e50944572a.js?body=1" for 127.0.0.1 at 2015-11-14 13:26:08 -0600
+
+
+Started GET "/assets/bootstrap/modal.self-72f95ffa1071297725a9ac91989693d56d1abf23f441a47455073b0da2857a5b.js?body=1" for 127.0.0.1 at 2015-11-14 13:26:08 -0600
+
+
+Started GET "/assets/bootstrap/scrollspy.self-a155b9d4b2f978905f0326c0f6635e1134fe91c6bfbfcbad079fa24a9fef2b0e.js?body=1" for 127.0.0.1 at 2015-11-14 13:26:08 -0600
+
+
+Started GET "/assets/bootstrap/tooltip.self-11cf547be953f25f511cec668f6690473fd97b2f65502e4032f4030999a3f0c3.js?body=1" for 127.0.0.1 at 2015-11-14 13:26:08 -0600
+
+
+Started GET "/assets/bootstrap/popover.self-77d8e3a2499c1104ef146396a68b82469ee2bdb365199b874694698d10405e9a.js?body=1" for 127.0.0.1 at 2015-11-14 13:26:08 -0600
+
+
+Started GET "/assets/bootstrap-sprockets.self-fbfa5ad7d9aa0afe439ec4ff3883acc4cb92b62cb67c40d674320c9aa1d4642d.js?body=1" for 127.0.0.1 at 2015-11-14 13:26:08 -0600
+
+
+Started GET "/assets/pages.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 127.0.0.1 at 2015-11-14 13:26:08 -0600
+
+
+Started GET "/assets/profiles.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 127.0.0.1 at 2015-11-14 13:26:08 -0600
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for 127.0.0.1 at 2015-11-14 13:26:08 -0600
+
+
+Started GET "/assets/Profile.jpg" for 127.0.0.1 at 2015-11-14 13:26:08 -0600
+
+
+Started GET "/assets/ethan.jpg" for 127.0.0.1 at 2015-11-14 13:26:08 -0600
+
+
+Started GET "/assets/longley.jpg" for 127.0.0.1 at 2015-11-14 13:26:08 -0600
+
+
+Started GET "/assets/sec.jpg" for 127.0.0.1 at 2015-11-14 13:26:08 -0600
+
+
+Started GET "/pages/profiles" for 127.0.0.1 at 2015-11-14 13:26:21 -0600
+Processing by PagesController#profiles as HTML
+  Rendered pages/profiles.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 3186ms (Views: 3185.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/pages.self-ffa11735bff6b9074998e54e8b8f4170d5086366bb463d0c20e765be9c4292c6.css?body=1" for 127.0.0.1 at 2015-11-14 13:26:25 -0600
+
+
+Started GET "/assets/profiles.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 127.0.0.1 at 2015-11-14 13:26:25 -0600
+
+
+Started GET "/assets/application.self-155c53dcc378f01c0b10c096419c6e1dd91826fbfcce9d530f37a1c147440f39.css?body=1" for 127.0.0.1 at 2015-11-14 13:26:25 -0600
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for 127.0.0.1 at 2015-11-14 13:26:25 -0600
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for 127.0.0.1 at 2015-11-14 13:26:25 -0600
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for 127.0.0.1 at 2015-11-14 13:26:25 -0600
+
+
+Started GET "/assets/bootstrap/affix.self-d2b642d8fbfc1d7041e2edefd66683ada567a980789dcd6f94fddda0b33408b5.js?body=1" for 127.0.0.1 at 2015-11-14 13:26:25 -0600
+
+
+Started GET "/assets/bootstrap/alert.self-a29e91e8cd3ddaba9bbc466901d53ec2127e9256b9b941905d525a3a716bd1a5.js?body=1" for 127.0.0.1 at 2015-11-14 13:26:25 -0600
+
+
+Started GET "/assets/bootstrap/button.self-a6cb16785434acb365ae426aef9f1fce05ed553cae7a965e4471c3da71509175.js?body=1" for 127.0.0.1 at 2015-11-14 13:26:25 -0600
+
+
+Started GET "/assets/bootstrap/carousel.self-57eb8422043cf0a85b7a9dc6843916eb0a3e35b419c7798a5eb254b918997631.js?body=1" for 127.0.0.1 at 2015-11-14 13:26:25 -0600
+
+
+Started GET "/assets/bootstrap/collapse.self-7dc8bfbc2fbfabd2bad62c58ff8ffeaf8f20fb87c7ca6cd35f06d4dc19632587.js?body=1" for 127.0.0.1 at 2015-11-14 13:26:25 -0600
+
+
+Started GET "/assets/bootstrap/dropdown.self-9314126777c6be5443e37ea7f7967d7914d72b3e60449ba50edc967446373059.js?body=1" for 127.0.0.1 at 2015-11-14 13:26:25 -0600
+
+
+Started GET "/assets/bootstrap/tab.self-122235057fbd4c6c7da377d59dc58f47b44cb1088a2e38e6ee6ce9d8ac29a26a.js?body=1" for 127.0.0.1 at 2015-11-14 13:26:25 -0600
+
+
+Started GET "/assets/bootstrap/transition.self-09ff30b1e8a93d1f7728b9855f55d9c9d8d5734c8861e0d8139994e50944572a.js?body=1" for 127.0.0.1 at 2015-11-14 13:26:25 -0600
+
+
+Started GET "/assets/bootstrap/scrollspy.self-a155b9d4b2f978905f0326c0f6635e1134fe91c6bfbfcbad079fa24a9fef2b0e.js?body=1" for 127.0.0.1 at 2015-11-14 13:26:25 -0600
+
+
+Started GET "/assets/bootstrap/modal.self-72f95ffa1071297725a9ac91989693d56d1abf23f441a47455073b0da2857a5b.js?body=1" for 127.0.0.1 at 2015-11-14 13:26:25 -0600
+
+
+Started GET "/assets/bootstrap/tooltip.self-11cf547be953f25f511cec668f6690473fd97b2f65502e4032f4030999a3f0c3.js?body=1" for 127.0.0.1 at 2015-11-14 13:26:25 -0600
+
+
+Started GET "/assets/bootstrap/popover.self-77d8e3a2499c1104ef146396a68b82469ee2bdb365199b874694698d10405e9a.js?body=1" for 127.0.0.1 at 2015-11-14 13:26:25 -0600
+
+
+Started GET "/assets/bootstrap-sprockets.self-fbfa5ad7d9aa0afe439ec4ff3883acc4cb92b62cb67c40d674320c9aa1d4642d.js?body=1" for 127.0.0.1 at 2015-11-14 13:26:25 -0600
+
+
+Started GET "/assets/pages.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 127.0.0.1 at 2015-11-14 13:26:25 -0600
+
+
+Started GET "/assets/profiles.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 127.0.0.1 at 2015-11-14 13:26:25 -0600
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for 127.0.0.1 at 2015-11-14 13:26:25 -0600
+
+
+Started GET "/assets/Profile.jpg" for 127.0.0.1 at 2015-11-14 13:26:25 -0600
+
+
+Started GET "/assets/ethan.jpg" for 127.0.0.1 at 2015-11-14 13:26:25 -0600
+
+
+Started GET "/assets/longley.jpg" for 127.0.0.1 at 2015-11-14 13:26:25 -0600
+
+
+Started GET "/assets/sec.jpg" for 127.0.0.1 at 2015-11-14 13:26:25 -0600
+
+
+Started GET "/pages/profiles" for 127.0.0.1 at 2015-11-14 13:27:40 -0600
+Processing by PagesController#profiles as HTML
+  Rendered pages/profiles.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 165ms (Views: 163.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/pages.self-ffa11735bff6b9074998e54e8b8f4170d5086366bb463d0c20e765be9c4292c6.css?body=1" for 127.0.0.1 at 2015-11-14 13:27:41 -0600
+
+
+Started GET "/assets/profiles.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 127.0.0.1 at 2015-11-14 13:27:41 -0600
+
+
+Started GET "/assets/application.self-155c53dcc378f01c0b10c096419c6e1dd91826fbfcce9d530f37a1c147440f39.css?body=1" for 127.0.0.1 at 2015-11-14 13:27:41 -0600
+
+
+Started GET "/assets/bootstrap/affix.self-d2b642d8fbfc1d7041e2edefd66683ada567a980789dcd6f94fddda0b33408b5.js?body=1" for 127.0.0.1 at 2015-11-14 13:27:41 -0600
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for 127.0.0.1 at 2015-11-14 13:27:41 -0600
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for 127.0.0.1 at 2015-11-14 13:27:41 -0600
+
+
+Started GET "/assets/bootstrap/alert.self-a29e91e8cd3ddaba9bbc466901d53ec2127e9256b9b941905d525a3a716bd1a5.js?body=1" for 127.0.0.1 at 2015-11-14 13:27:41 -0600
+
+
+Started GET "/assets/bootstrap/collapse.self-7dc8bfbc2fbfabd2bad62c58ff8ffeaf8f20fb87c7ca6cd35f06d4dc19632587.js?body=1" for 127.0.0.1 at 2015-11-14 13:27:41 -0600
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for 127.0.0.1 at 2015-11-14 13:27:41 -0600
+
+
+Started GET "/assets/bootstrap/carousel.self-57eb8422043cf0a85b7a9dc6843916eb0a3e35b419c7798a5eb254b918997631.js?body=1" for 127.0.0.1 at 2015-11-14 13:27:41 -0600
+
+
+Started GET "/assets/bootstrap/button.self-a6cb16785434acb365ae426aef9f1fce05ed553cae7a965e4471c3da71509175.js?body=1" for 127.0.0.1 at 2015-11-14 13:27:41 -0600
+
+
+Started GET "/assets/bootstrap/tab.self-122235057fbd4c6c7da377d59dc58f47b44cb1088a2e38e6ee6ce9d8ac29a26a.js?body=1" for 127.0.0.1 at 2015-11-14 13:27:41 -0600
+
+
+Started GET "/assets/bootstrap/dropdown.self-9314126777c6be5443e37ea7f7967d7914d72b3e60449ba50edc967446373059.js?body=1" for 127.0.0.1 at 2015-11-14 13:27:41 -0600
+
+
+Started GET "/assets/bootstrap/scrollspy.self-a155b9d4b2f978905f0326c0f6635e1134fe91c6bfbfcbad079fa24a9fef2b0e.js?body=1" for 127.0.0.1 at 2015-11-14 13:27:41 -0600
+
+
+Started GET "/assets/bootstrap/transition.self-09ff30b1e8a93d1f7728b9855f55d9c9d8d5734c8861e0d8139994e50944572a.js?body=1" for 127.0.0.1 at 2015-11-14 13:27:41 -0600
+
+
+Started GET "/assets/bootstrap/popover.self-77d8e3a2499c1104ef146396a68b82469ee2bdb365199b874694698d10405e9a.js?body=1" for 127.0.0.1 at 2015-11-14 13:27:41 -0600
+
+
+Started GET "/assets/bootstrap/modal.self-72f95ffa1071297725a9ac91989693d56d1abf23f441a47455073b0da2857a5b.js?body=1" for 127.0.0.1 at 2015-11-14 13:27:41 -0600
+
+
+Started GET "/assets/profiles.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 127.0.0.1 at 2015-11-14 13:27:41 -0600
+
+
+Started GET "/assets/bootstrap/tooltip.self-11cf547be953f25f511cec668f6690473fd97b2f65502e4032f4030999a3f0c3.js?body=1" for 127.0.0.1 at 2015-11-14 13:27:41 -0600
+
+
+Started GET "/assets/bootstrap-sprockets.self-fbfa5ad7d9aa0afe439ec4ff3883acc4cb92b62cb67c40d674320c9aa1d4642d.js?body=1" for 127.0.0.1 at 2015-11-14 13:27:41 -0600
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for 127.0.0.1 at 2015-11-14 13:27:41 -0600
+
+
+Started GET "/assets/Profile.jpg" for 127.0.0.1 at 2015-11-14 13:27:41 -0600
+
+
+Started GET "/assets/pages.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 127.0.0.1 at 2015-11-14 13:27:41 -0600
+
+
+Started GET "/assets/ethan.jpg" for 127.0.0.1 at 2015-11-14 13:27:41 -0600
+
+
+Started GET "/assets/longley.jpg" for 127.0.0.1 at 2015-11-14 13:27:41 -0600
+
+
+Started GET "/assets/sec.jpg" for 127.0.0.1 at 2015-11-14 13:27:41 -0600
+
+
+Started GET "/pages/profiles" for 127.0.0.1 at 2015-11-14 13:28:14 -0600
+Processing by PagesController#profiles as HTML
+  Rendered pages/profiles.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 171ms (Views: 169.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/profiles.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 127.0.0.1 at 2015-11-14 13:28:14 -0600
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for 127.0.0.1 at 2015-11-14 13:28:14 -0600
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for 127.0.0.1 at 2015-11-14 13:28:14 -0600
+
+
+Started GET "/assets/pages.self-ffa11735bff6b9074998e54e8b8f4170d5086366bb463d0c20e765be9c4292c6.css?body=1" for 127.0.0.1 at 2015-11-14 13:28:14 -0600
+
+
+Started GET "/assets/application.self-155c53dcc378f01c0b10c096419c6e1dd91826fbfcce9d530f37a1c147440f39.css?body=1" for 127.0.0.1 at 2015-11-14 13:28:14 -0600
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for 127.0.0.1 at 2015-11-14 13:28:14 -0600
+
+
+Started GET "/assets/bootstrap/button.self-a6cb16785434acb365ae426aef9f1fce05ed553cae7a965e4471c3da71509175.js?body=1" for 127.0.0.1 at 2015-11-14 13:28:14 -0600
+
+
+Started GET "/assets/bootstrap/affix.self-d2b642d8fbfc1d7041e2edefd66683ada567a980789dcd6f94fddda0b33408b5.js?body=1" for 127.0.0.1 at 2015-11-14 13:28:14 -0600
+
+
+Started GET "/assets/bootstrap/alert.self-a29e91e8cd3ddaba9bbc466901d53ec2127e9256b9b941905d525a3a716bd1a5.js?body=1" for 127.0.0.1 at 2015-11-14 13:28:14 -0600
+
+
+Started GET "/assets/bootstrap/dropdown.self-9314126777c6be5443e37ea7f7967d7914d72b3e60449ba50edc967446373059.js?body=1" for 127.0.0.1 at 2015-11-14 13:28:14 -0600
+
+
+Started GET "/assets/bootstrap/collapse.self-7dc8bfbc2fbfabd2bad62c58ff8ffeaf8f20fb87c7ca6cd35f06d4dc19632587.js?body=1" for 127.0.0.1 at 2015-11-14 13:28:14 -0600
+
+
+Started GET "/assets/bootstrap/carousel.self-57eb8422043cf0a85b7a9dc6843916eb0a3e35b419c7798a5eb254b918997631.js?body=1" for 127.0.0.1 at 2015-11-14 13:28:14 -0600
+
+
+Started GET "/assets/bootstrap/transition.self-09ff30b1e8a93d1f7728b9855f55d9c9d8d5734c8861e0d8139994e50944572a.js?body=1" for 127.0.0.1 at 2015-11-14 13:28:14 -0600
+
+
+Started GET "/assets/bootstrap/modal.self-72f95ffa1071297725a9ac91989693d56d1abf23f441a47455073b0da2857a5b.js?body=1" for 127.0.0.1 at 2015-11-14 13:28:14 -0600
+
+
+Started GET "/assets/bootstrap/tab.self-122235057fbd4c6c7da377d59dc58f47b44cb1088a2e38e6ee6ce9d8ac29a26a.js?body=1" for 127.0.0.1 at 2015-11-14 13:28:14 -0600
+
+
+Started GET "/assets/bootstrap/scrollspy.self-a155b9d4b2f978905f0326c0f6635e1134fe91c6bfbfcbad079fa24a9fef2b0e.js?body=1" for 127.0.0.1 at 2015-11-14 13:28:14 -0600
+
+
+Started GET "/assets/bootstrap/popover.self-77d8e3a2499c1104ef146396a68b82469ee2bdb365199b874694698d10405e9a.js?body=1" for 127.0.0.1 at 2015-11-14 13:28:14 -0600
+
+
+Started GET "/assets/bootstrap/tooltip.self-11cf547be953f25f511cec668f6690473fd97b2f65502e4032f4030999a3f0c3.js?body=1" for 127.0.0.1 at 2015-11-14 13:28:14 -0600
+
+
+Started GET "/assets/pages.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 127.0.0.1 at 2015-11-14 13:28:14 -0600
+
+
+Started GET "/assets/bootstrap-sprockets.self-fbfa5ad7d9aa0afe439ec4ff3883acc4cb92b62cb67c40d674320c9aa1d4642d.js?body=1" for 127.0.0.1 at 2015-11-14 13:28:14 -0600
+
+
+Started GET "/assets/profiles.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 127.0.0.1 at 2015-11-14 13:28:14 -0600
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for 127.0.0.1 at 2015-11-14 13:28:14 -0600
+
+
+Started GET "/assets/Profile.jpg" for 127.0.0.1 at 2015-11-14 13:28:14 -0600
+
+
+Started GET "/assets/ethan.jpg" for 127.0.0.1 at 2015-11-14 13:28:14 -0600
+
+
+Started GET "/assets/longley.jpg" for 127.0.0.1 at 2015-11-14 13:28:14 -0600
+
+
+Started GET "/assets/sec.jpg" for 127.0.0.1 at 2015-11-14 13:28:14 -0600
+
+
+Started GET "/pages/profiles" for 127.0.0.1 at 2015-11-14 13:29:17 -0600
+Processing by PagesController#profiles as HTML
+  Rendered pages/profiles.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 3027ms (Views: 3026.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/profiles.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 127.0.0.1 at 2015-11-14 13:29:20 -0600
+
+
+Started GET "/assets/pages.self-f6a5b9b1b34277b34fd7963b6cd2511390faa51d4bea3e033307e4ff12a6af5e.css?body=1" for 127.0.0.1 at 2015-11-14 13:29:20 -0600
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for 127.0.0.1 at 2015-11-14 13:29:20 -0600
+
+
+Started GET "/assets/application.self-155c53dcc378f01c0b10c096419c6e1dd91826fbfcce9d530f37a1c147440f39.css?body=1" for 127.0.0.1 at 2015-11-14 13:29:20 -0600
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for 127.0.0.1 at 2015-11-14 13:29:20 -0600
+
+
+Started GET "/assets/bootstrap/affix.self-d2b642d8fbfc1d7041e2edefd66683ada567a980789dcd6f94fddda0b33408b5.js?body=1" for 127.0.0.1 at 2015-11-14 13:29:20 -0600
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for 127.0.0.1 at 2015-11-14 13:29:20 -0600
+
+
+Started GET "/assets/bootstrap/alert.self-a29e91e8cd3ddaba9bbc466901d53ec2127e9256b9b941905d525a3a716bd1a5.js?body=1" for 127.0.0.1 at 2015-11-14 13:29:20 -0600
+
+
+Started GET "/assets/bootstrap/button.self-a6cb16785434acb365ae426aef9f1fce05ed553cae7a965e4471c3da71509175.js?body=1" for 127.0.0.1 at 2015-11-14 13:29:20 -0600
+
+
+Started GET "/assets/bootstrap/carousel.self-57eb8422043cf0a85b7a9dc6843916eb0a3e35b419c7798a5eb254b918997631.js?body=1" for 127.0.0.1 at 2015-11-14 13:29:20 -0600
+
+
+Started GET "/assets/bootstrap/collapse.self-7dc8bfbc2fbfabd2bad62c58ff8ffeaf8f20fb87c7ca6cd35f06d4dc19632587.js?body=1" for 127.0.0.1 at 2015-11-14 13:29:20 -0600
+
+
+Started GET "/assets/bootstrap/dropdown.self-9314126777c6be5443e37ea7f7967d7914d72b3e60449ba50edc967446373059.js?body=1" for 127.0.0.1 at 2015-11-14 13:29:20 -0600
+
+
+Started GET "/assets/bootstrap/tab.self-122235057fbd4c6c7da377d59dc58f47b44cb1088a2e38e6ee6ce9d8ac29a26a.js?body=1" for 127.0.0.1 at 2015-11-14 13:29:20 -0600
+
+
+Started GET "/assets/bootstrap/transition.self-09ff30b1e8a93d1f7728b9855f55d9c9d8d5734c8861e0d8139994e50944572a.js?body=1" for 127.0.0.1 at 2015-11-14 13:29:20 -0600
+
+
+Started GET "/assets/bootstrap/scrollspy.self-a155b9d4b2f978905f0326c0f6635e1134fe91c6bfbfcbad079fa24a9fef2b0e.js?body=1" for 127.0.0.1 at 2015-11-14 13:29:20 -0600
+
+
+Started GET "/assets/bootstrap/modal.self-72f95ffa1071297725a9ac91989693d56d1abf23f441a47455073b0da2857a5b.js?body=1" for 127.0.0.1 at 2015-11-14 13:29:20 -0600
+
+
+Started GET "/assets/bootstrap/tooltip.self-11cf547be953f25f511cec668f6690473fd97b2f65502e4032f4030999a3f0c3.js?body=1" for 127.0.0.1 at 2015-11-14 13:29:20 -0600
+
+
+Started GET "/assets/bootstrap/popover.self-77d8e3a2499c1104ef146396a68b82469ee2bdb365199b874694698d10405e9a.js?body=1" for 127.0.0.1 at 2015-11-14 13:29:20 -0600
+
+
+Started GET "/assets/bootstrap-sprockets.self-fbfa5ad7d9aa0afe439ec4ff3883acc4cb92b62cb67c40d674320c9aa1d4642d.js?body=1" for 127.0.0.1 at 2015-11-14 13:29:20 -0600
+
+
+Started GET "/assets/pages.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 127.0.0.1 at 2015-11-14 13:29:20 -0600
+
+
+Started GET "/assets/profiles.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 127.0.0.1 at 2015-11-14 13:29:20 -0600
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for 127.0.0.1 at 2015-11-14 13:29:20 -0600
+
+
+Started GET "/assets/Profile.jpg" for 127.0.0.1 at 2015-11-14 13:29:20 -0600
+
+
+Started GET "/assets/ethan.jpg" for 127.0.0.1 at 2015-11-14 13:29:20 -0600
+
+
+Started GET "/assets/longley.jpg" for 127.0.0.1 at 2015-11-14 13:29:21 -0600
+
+
+Started GET "/assets/sec.jpg" for 127.0.0.1 at 2015-11-14 13:29:21 -0600
+
+
+Started GET "/pages/profiles" for 127.0.0.1 at 2015-11-14 13:29:28 -0600
+Processing by PagesController#profiles as HTML
+  Rendered pages/profiles.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 3176ms (Views: 3174.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/pages.self-5a4225fe517da0ee80d5466922fe870d008e37ff3121db301a6b8ada282fb504.css?body=1" for 127.0.0.1 at 2015-11-14 13:29:31 -0600
+
+
+Started GET "/assets/application.self-155c53dcc378f01c0b10c096419c6e1dd91826fbfcce9d530f37a1c147440f39.css?body=1" for 127.0.0.1 at 2015-11-14 13:29:31 -0600
+
+
+Started GET "/assets/profiles.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 127.0.0.1 at 2015-11-14 13:29:31 -0600
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for 127.0.0.1 at 2015-11-14 13:29:31 -0600
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for 127.0.0.1 at 2015-11-14 13:29:31 -0600
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for 127.0.0.1 at 2015-11-14 13:29:31 -0600
+
+
+Started GET "/assets/bootstrap/affix.self-d2b642d8fbfc1d7041e2edefd66683ada567a980789dcd6f94fddda0b33408b5.js?body=1" for 127.0.0.1 at 2015-11-14 13:29:31 -0600
+
+
+Started GET "/assets/bootstrap/carousel.self-57eb8422043cf0a85b7a9dc6843916eb0a3e35b419c7798a5eb254b918997631.js?body=1" for 127.0.0.1 at 2015-11-14 13:29:31 -0600
+
+
+Started GET "/assets/bootstrap/collapse.self-7dc8bfbc2fbfabd2bad62c58ff8ffeaf8f20fb87c7ca6cd35f06d4dc19632587.js?body=1" for 127.0.0.1 at 2015-11-14 13:29:31 -0600
+
+
+Started GET "/assets/bootstrap/dropdown.self-9314126777c6be5443e37ea7f7967d7914d72b3e60449ba50edc967446373059.js?body=1" for 127.0.0.1 at 2015-11-14 13:29:31 -0600
+
+
+Started GET "/assets/bootstrap/scrollspy.self-a155b9d4b2f978905f0326c0f6635e1134fe91c6bfbfcbad079fa24a9fef2b0e.js?body=1" for 127.0.0.1 at 2015-11-14 13:29:31 -0600
+
+
+Started GET "/assets/bootstrap/button.self-a6cb16785434acb365ae426aef9f1fce05ed553cae7a965e4471c3da71509175.js?body=1" for 127.0.0.1 at 2015-11-14 13:29:31 -0600
+
+
+Started GET "/assets/bootstrap/alert.self-a29e91e8cd3ddaba9bbc466901d53ec2127e9256b9b941905d525a3a716bd1a5.js?body=1" for 127.0.0.1 at 2015-11-14 13:29:31 -0600
+
+
+Started GET "/assets/bootstrap/tab.self-122235057fbd4c6c7da377d59dc58f47b44cb1088a2e38e6ee6ce9d8ac29a26a.js?body=1" for 127.0.0.1 at 2015-11-14 13:29:31 -0600
+
+
+Started GET "/assets/bootstrap/transition.self-09ff30b1e8a93d1f7728b9855f55d9c9d8d5734c8861e0d8139994e50944572a.js?body=1" for 127.0.0.1 at 2015-11-14 13:29:31 -0600
+
+
+Started GET "/assets/bootstrap/tooltip.self-11cf547be953f25f511cec668f6690473fd97b2f65502e4032f4030999a3f0c3.js?body=1" for 127.0.0.1 at 2015-11-14 13:29:31 -0600
+
+
+Started GET "/assets/bootstrap/modal.self-72f95ffa1071297725a9ac91989693d56d1abf23f441a47455073b0da2857a5b.js?body=1" for 127.0.0.1 at 2015-11-14 13:29:31 -0600
+
+
+Started GET "/assets/bootstrap/popover.self-77d8e3a2499c1104ef146396a68b82469ee2bdb365199b874694698d10405e9a.js?body=1" for 127.0.0.1 at 2015-11-14 13:29:31 -0600
+
+
+Started GET "/assets/bootstrap-sprockets.self-fbfa5ad7d9aa0afe439ec4ff3883acc4cb92b62cb67c40d674320c9aa1d4642d.js?body=1" for 127.0.0.1 at 2015-11-14 13:29:31 -0600
+
+
+Started GET "/assets/pages.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 127.0.0.1 at 2015-11-14 13:29:31 -0600
+
+
+Started GET "/assets/profiles.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 127.0.0.1 at 2015-11-14 13:29:31 -0600
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for 127.0.0.1 at 2015-11-14 13:29:31 -0600
+
+
+Started GET "/assets/Profile.jpg" for 127.0.0.1 at 2015-11-14 13:29:31 -0600
+
+
+Started GET "/assets/longley.jpg" for 127.0.0.1 at 2015-11-14 13:29:31 -0600
+
+
+Started GET "/assets/ethan.jpg" for 127.0.0.1 at 2015-11-14 13:29:31 -0600
+
+
+Started GET "/assets/sec.jpg" for 127.0.0.1 at 2015-11-14 13:29:31 -0600
+
+
+Started GET "/pages/profiles" for 127.0.0.1 at 2015-11-14 13:30:22 -0600
+Processing by PagesController#profiles as HTML
+  Rendered pages/profiles.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 3160ms (Views: 3159.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/pages.self-7eff1457da25f5624cb9313e490d53f72129ce2e13e1cad1b996944557e85051.css?body=1" for 127.0.0.1 at 2015-11-14 13:30:26 -0600
+
+
+Started GET "/assets/profiles.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 127.0.0.1 at 2015-11-14 13:30:26 -0600
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for 127.0.0.1 at 2015-11-14 13:30:26 -0600
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for 127.0.0.1 at 2015-11-14 13:30:26 -0600
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for 127.0.0.1 at 2015-11-14 13:30:26 -0600
+
+
+Started GET "/assets/application.self-155c53dcc378f01c0b10c096419c6e1dd91826fbfcce9d530f37a1c147440f39.css?body=1" for 127.0.0.1 at 2015-11-14 13:30:26 -0600
+
+
+Started GET "/assets/bootstrap/affix.self-d2b642d8fbfc1d7041e2edefd66683ada567a980789dcd6f94fddda0b33408b5.js?body=1" for 127.0.0.1 at 2015-11-14 13:30:26 -0600
+
+
+Started GET "/assets/bootstrap/alert.self-a29e91e8cd3ddaba9bbc466901d53ec2127e9256b9b941905d525a3a716bd1a5.js?body=1" for 127.0.0.1 at 2015-11-14 13:30:26 -0600
+
+
+Started GET "/assets/bootstrap/button.self-a6cb16785434acb365ae426aef9f1fce05ed553cae7a965e4471c3da71509175.js?body=1" for 127.0.0.1 at 2015-11-14 13:30:26 -0600
+
+
+Started GET "/assets/bootstrap/carousel.self-57eb8422043cf0a85b7a9dc6843916eb0a3e35b419c7798a5eb254b918997631.js?body=1" for 127.0.0.1 at 2015-11-14 13:30:26 -0600
+
+
+Started GET "/assets/bootstrap/collapse.self-7dc8bfbc2fbfabd2bad62c58ff8ffeaf8f20fb87c7ca6cd35f06d4dc19632587.js?body=1" for 127.0.0.1 at 2015-11-14 13:30:26 -0600
+
+
+Started GET "/assets/bootstrap/dropdown.self-9314126777c6be5443e37ea7f7967d7914d72b3e60449ba50edc967446373059.js?body=1" for 127.0.0.1 at 2015-11-14 13:30:26 -0600
+
+
+Started GET "/assets/bootstrap/transition.self-09ff30b1e8a93d1f7728b9855f55d9c9d8d5734c8861e0d8139994e50944572a.js?body=1" for 127.0.0.1 at 2015-11-14 13:30:26 -0600
+
+
+Started GET "/assets/bootstrap/tab.self-122235057fbd4c6c7da377d59dc58f47b44cb1088a2e38e6ee6ce9d8ac29a26a.js?body=1" for 127.0.0.1 at 2015-11-14 13:30:26 -0600
+
+
+Started GET "/assets/bootstrap/scrollspy.self-a155b9d4b2f978905f0326c0f6635e1134fe91c6bfbfcbad079fa24a9fef2b0e.js?body=1" for 127.0.0.1 at 2015-11-14 13:30:26 -0600
+
+
+Started GET "/assets/bootstrap/modal.self-72f95ffa1071297725a9ac91989693d56d1abf23f441a47455073b0da2857a5b.js?body=1" for 127.0.0.1 at 2015-11-14 13:30:26 -0600
+
+
+Started GET "/assets/bootstrap/tooltip.self-11cf547be953f25f511cec668f6690473fd97b2f65502e4032f4030999a3f0c3.js?body=1" for 127.0.0.1 at 2015-11-14 13:30:26 -0600
+
+
+Started GET "/assets/bootstrap/popover.self-77d8e3a2499c1104ef146396a68b82469ee2bdb365199b874694698d10405e9a.js?body=1" for 127.0.0.1 at 2015-11-14 13:30:26 -0600
+
+
+Started GET "/assets/bootstrap-sprockets.self-fbfa5ad7d9aa0afe439ec4ff3883acc4cb92b62cb67c40d674320c9aa1d4642d.js?body=1" for 127.0.0.1 at 2015-11-14 13:30:26 -0600
+
+
+Started GET "/assets/pages.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 127.0.0.1 at 2015-11-14 13:30:26 -0600
+
+
+Started GET "/assets/profiles.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 127.0.0.1 at 2015-11-14 13:30:26 -0600
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for 127.0.0.1 at 2015-11-14 13:30:26 -0600
+
+
+Started GET "/assets/Profile.jpg" for 127.0.0.1 at 2015-11-14 13:30:26 -0600
+
+
+Started GET "/assets/ethan.jpg" for 127.0.0.1 at 2015-11-14 13:30:26 -0600
+
+
+Started GET "/assets/longley.jpg" for 127.0.0.1 at 2015-11-14 13:30:26 -0600
+
+
+Started GET "/assets/sec.jpg" for 127.0.0.1 at 2015-11-14 13:30:26 -0600
+
+
+Started GET "/pages/profiles" for 127.0.0.1 at 2015-11-14 13:30:35 -0600
+Processing by PagesController#profiles as HTML
+  Rendered pages/profiles.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 3038ms (Views: 3037.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/pages.self-0dc3e650c283e114eb420d436e15e0ff6b433387f4bb26b31dbe814f9ff5d74b.css?body=1" for 127.0.0.1 at 2015-11-14 13:30:38 -0600
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for 127.0.0.1 at 2015-11-14 13:30:38 -0600
+
+
+Started GET "/assets/profiles.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 127.0.0.1 at 2015-11-14 13:30:38 -0600
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for 127.0.0.1 at 2015-11-14 13:30:38 -0600
+
+
+Started GET "/assets/application.self-155c53dcc378f01c0b10c096419c6e1dd91826fbfcce9d530f37a1c147440f39.css?body=1" for 127.0.0.1 at 2015-11-14 13:30:38 -0600
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for 127.0.0.1 at 2015-11-14 13:30:38 -0600
+
+
+Started GET "/assets/bootstrap/affix.self-d2b642d8fbfc1d7041e2edefd66683ada567a980789dcd6f94fddda0b33408b5.js?body=1" for 127.0.0.1 at 2015-11-14 13:30:38 -0600
+
+
+Started GET "/assets/bootstrap/alert.self-a29e91e8cd3ddaba9bbc466901d53ec2127e9256b9b941905d525a3a716bd1a5.js?body=1" for 127.0.0.1 at 2015-11-14 13:30:38 -0600
+
+
+Started GET "/assets/bootstrap/button.self-a6cb16785434acb365ae426aef9f1fce05ed553cae7a965e4471c3da71509175.js?body=1" for 127.0.0.1 at 2015-11-14 13:30:38 -0600
+
+
+Started GET "/assets/bootstrap/carousel.self-57eb8422043cf0a85b7a9dc6843916eb0a3e35b419c7798a5eb254b918997631.js?body=1" for 127.0.0.1 at 2015-11-14 13:30:38 -0600
+
+
+Started GET "/assets/bootstrap/collapse.self-7dc8bfbc2fbfabd2bad62c58ff8ffeaf8f20fb87c7ca6cd35f06d4dc19632587.js?body=1" for 127.0.0.1 at 2015-11-14 13:30:38 -0600
+
+
+Started GET "/assets/bootstrap/dropdown.self-9314126777c6be5443e37ea7f7967d7914d72b3e60449ba50edc967446373059.js?body=1" for 127.0.0.1 at 2015-11-14 13:30:38 -0600
+
+
+Started GET "/assets/bootstrap/tab.self-122235057fbd4c6c7da377d59dc58f47b44cb1088a2e38e6ee6ce9d8ac29a26a.js?body=1" for 127.0.0.1 at 2015-11-14 13:30:38 -0600
+
+
+Started GET "/assets/bootstrap/transition.self-09ff30b1e8a93d1f7728b9855f55d9c9d8d5734c8861e0d8139994e50944572a.js?body=1" for 127.0.0.1 at 2015-11-14 13:30:38 -0600
+
+
+Started GET "/assets/bootstrap/scrollspy.self-a155b9d4b2f978905f0326c0f6635e1134fe91c6bfbfcbad079fa24a9fef2b0e.js?body=1" for 127.0.0.1 at 2015-11-14 13:30:38 -0600
+
+
+Started GET "/assets/bootstrap/modal.self-72f95ffa1071297725a9ac91989693d56d1abf23f441a47455073b0da2857a5b.js?body=1" for 127.0.0.1 at 2015-11-14 13:30:38 -0600
+
+
+Started GET "/assets/bootstrap/tooltip.self-11cf547be953f25f511cec668f6690473fd97b2f65502e4032f4030999a3f0c3.js?body=1" for 127.0.0.1 at 2015-11-14 13:30:38 -0600
+
+
+Started GET "/assets/bootstrap/popover.self-77d8e3a2499c1104ef146396a68b82469ee2bdb365199b874694698d10405e9a.js?body=1" for 127.0.0.1 at 2015-11-14 13:30:38 -0600
+
+
+Started GET "/assets/bootstrap-sprockets.self-fbfa5ad7d9aa0afe439ec4ff3883acc4cb92b62cb67c40d674320c9aa1d4642d.js?body=1" for 127.0.0.1 at 2015-11-14 13:30:38 -0600
+
+
+Started GET "/assets/pages.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 127.0.0.1 at 2015-11-14 13:30:38 -0600
+
+
+Started GET "/assets/profiles.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 127.0.0.1 at 2015-11-14 13:30:38 -0600
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for 127.0.0.1 at 2015-11-14 13:30:38 -0600
+
+
+Started GET "/assets/Profile.jpg" for 127.0.0.1 at 2015-11-14 13:30:38 -0600
+
+
+Started GET "/assets/ethan.jpg" for 127.0.0.1 at 2015-11-14 13:30:38 -0600
+
+
+Started GET "/assets/longley.jpg" for 127.0.0.1 at 2015-11-14 13:30:38 -0600
+
+
+Started GET "/assets/sec.jpg" for 127.0.0.1 at 2015-11-14 13:30:38 -0600
+
+
+Started GET "/pages/profiles" for 127.0.0.1 at 2015-11-14 13:31:14 -0600
+Processing by PagesController#profiles as HTML
+  Rendered pages/profiles.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 3098ms (Views: 3097.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/pages.self-874396f7567484d50560b8bba9609df41105efe5e600b39e6c36b4a560e7dcbf.css?body=1" for 127.0.0.1 at 2015-11-14 13:31:18 -0600
+
+
+Started GET "/assets/profiles.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 127.0.0.1 at 2015-11-14 13:31:18 -0600
+
+
+Started GET "/assets/application.self-155c53dcc378f01c0b10c096419c6e1dd91826fbfcce9d530f37a1c147440f39.css?body=1" for 127.0.0.1 at 2015-11-14 13:31:18 -0600
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for 127.0.0.1 at 2015-11-14 13:31:18 -0600
+
+
+Started GET "/assets/bootstrap/affix.self-d2b642d8fbfc1d7041e2edefd66683ada567a980789dcd6f94fddda0b33408b5.js?body=1" for 127.0.0.1 at 2015-11-14 13:31:18 -0600
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for 127.0.0.1 at 2015-11-14 13:31:18 -0600
+
+
+Started GET "/assets/bootstrap/alert.self-a29e91e8cd3ddaba9bbc466901d53ec2127e9256b9b941905d525a3a716bd1a5.js?body=1" for 127.0.0.1 at 2015-11-14 13:31:18 -0600
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for 127.0.0.1 at 2015-11-14 13:31:18 -0600
+
+
+Started GET "/assets/bootstrap/button.self-a6cb16785434acb365ae426aef9f1fce05ed553cae7a965e4471c3da71509175.js?body=1" for 127.0.0.1 at 2015-11-14 13:31:18 -0600
+
+
+Started GET "/assets/bootstrap/carousel.self-57eb8422043cf0a85b7a9dc6843916eb0a3e35b419c7798a5eb254b918997631.js?body=1" for 127.0.0.1 at 2015-11-14 13:31:18 -0600
+
+
+Started GET "/assets/bootstrap/collapse.self-7dc8bfbc2fbfabd2bad62c58ff8ffeaf8f20fb87c7ca6cd35f06d4dc19632587.js?body=1" for 127.0.0.1 at 2015-11-14 13:31:18 -0600
+
+
+Started GET "/assets/bootstrap/dropdown.self-9314126777c6be5443e37ea7f7967d7914d72b3e60449ba50edc967446373059.js?body=1" for 127.0.0.1 at 2015-11-14 13:31:18 -0600
+
+
+Started GET "/assets/bootstrap/tab.self-122235057fbd4c6c7da377d59dc58f47b44cb1088a2e38e6ee6ce9d8ac29a26a.js?body=1" for 127.0.0.1 at 2015-11-14 13:31:18 -0600
+
+
+Started GET "/assets/bootstrap/transition.self-09ff30b1e8a93d1f7728b9855f55d9c9d8d5734c8861e0d8139994e50944572a.js?body=1" for 127.0.0.1 at 2015-11-14 13:31:18 -0600
+
+
+Started GET "/assets/bootstrap/scrollspy.self-a155b9d4b2f978905f0326c0f6635e1134fe91c6bfbfcbad079fa24a9fef2b0e.js?body=1" for 127.0.0.1 at 2015-11-14 13:31:18 -0600
+
+
+Started GET "/assets/bootstrap/modal.self-72f95ffa1071297725a9ac91989693d56d1abf23f441a47455073b0da2857a5b.js?body=1" for 127.0.0.1 at 2015-11-14 13:31:18 -0600
+
+
+Started GET "/assets/bootstrap/tooltip.self-11cf547be953f25f511cec668f6690473fd97b2f65502e4032f4030999a3f0c3.js?body=1" for 127.0.0.1 at 2015-11-14 13:31:18 -0600
+
+
+Started GET "/assets/bootstrap-sprockets.self-fbfa5ad7d9aa0afe439ec4ff3883acc4cb92b62cb67c40d674320c9aa1d4642d.js?body=1" for 127.0.0.1 at 2015-11-14 13:31:18 -0600
+
+
+Started GET "/assets/bootstrap/popover.self-77d8e3a2499c1104ef146396a68b82469ee2bdb365199b874694698d10405e9a.js?body=1" for 127.0.0.1 at 2015-11-14 13:31:18 -0600
+
+
+Started GET "/assets/pages.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 127.0.0.1 at 2015-11-14 13:31:18 -0600
+
+
+Started GET "/assets/profiles.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 127.0.0.1 at 2015-11-14 13:31:18 -0600
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for 127.0.0.1 at 2015-11-14 13:31:18 -0600
+
+
+Started GET "/assets/Profile.jpg" for 127.0.0.1 at 2015-11-14 13:31:18 -0600
+
+
+Started GET "/assets/ethan.jpg" for 127.0.0.1 at 2015-11-14 13:31:18 -0600
+
+
+Started GET "/assets/longley.jpg" for 127.0.0.1 at 2015-11-14 13:31:18 -0600
+
+
+Started GET "/assets/sec.jpg" for 127.0.0.1 at 2015-11-14 13:31:18 -0600
+
+
+Started GET "/pages/profiles" for 127.0.0.1 at 2015-11-14 13:31:33 -0600
+Processing by PagesController#profiles as HTML
+  Rendered pages/profiles.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 3144ms (Views: 3142.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/profiles.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 127.0.0.1 at 2015-11-14 13:31:36 -0600
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for 127.0.0.1 at 2015-11-14 13:31:36 -0600
+
+
+Started GET "/assets/pages.self-0f2a1e84b538152180e8ff3dfd3d28ea333988019dd8e1d9f732dc264c95f054.css?body=1" for 127.0.0.1 at 2015-11-14 13:31:36 -0600
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for 127.0.0.1 at 2015-11-14 13:31:36 -0600
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for 127.0.0.1 at 2015-11-14 13:31:36 -0600
+
+
+Started GET "/assets/application.self-155c53dcc378f01c0b10c096419c6e1dd91826fbfcce9d530f37a1c147440f39.css?body=1" for 127.0.0.1 at 2015-11-14 13:31:36 -0600
+
+
+Started GET "/assets/bootstrap/affix.self-d2b642d8fbfc1d7041e2edefd66683ada567a980789dcd6f94fddda0b33408b5.js?body=1" for 127.0.0.1 at 2015-11-14 13:31:36 -0600
+
+
+Started GET "/assets/bootstrap/alert.self-a29e91e8cd3ddaba9bbc466901d53ec2127e9256b9b941905d525a3a716bd1a5.js?body=1" for 127.0.0.1 at 2015-11-14 13:31:36 -0600
+
+
+Started GET "/assets/bootstrap/carousel.self-57eb8422043cf0a85b7a9dc6843916eb0a3e35b419c7798a5eb254b918997631.js?body=1" for 127.0.0.1 at 2015-11-14 13:31:36 -0600
+
+
+Started GET "/assets/bootstrap/collapse.self-7dc8bfbc2fbfabd2bad62c58ff8ffeaf8f20fb87c7ca6cd35f06d4dc19632587.js?body=1" for 127.0.0.1 at 2015-11-14 13:31:36 -0600
+
+
+Started GET "/assets/bootstrap/button.self-a6cb16785434acb365ae426aef9f1fce05ed553cae7a965e4471c3da71509175.js?body=1" for 127.0.0.1 at 2015-11-14 13:31:36 -0600
+
+
+Started GET "/assets/bootstrap/dropdown.self-9314126777c6be5443e37ea7f7967d7914d72b3e60449ba50edc967446373059.js?body=1" for 127.0.0.1 at 2015-11-14 13:31:36 -0600
+
+
+Started GET "/assets/bootstrap/tab.self-122235057fbd4c6c7da377d59dc58f47b44cb1088a2e38e6ee6ce9d8ac29a26a.js?body=1" for 127.0.0.1 at 2015-11-14 13:31:36 -0600
+
+
+Started GET "/assets/bootstrap/transition.self-09ff30b1e8a93d1f7728b9855f55d9c9d8d5734c8861e0d8139994e50944572a.js?body=1" for 127.0.0.1 at 2015-11-14 13:31:36 -0600
+
+
+Started GET "/assets/bootstrap/scrollspy.self-a155b9d4b2f978905f0326c0f6635e1134fe91c6bfbfcbad079fa24a9fef2b0e.js?body=1" for 127.0.0.1 at 2015-11-14 13:31:36 -0600
+
+
+Started GET "/assets/bootstrap/modal.self-72f95ffa1071297725a9ac91989693d56d1abf23f441a47455073b0da2857a5b.js?body=1" for 127.0.0.1 at 2015-11-14 13:31:36 -0600
+
+
+Started GET "/assets/bootstrap/tooltip.self-11cf547be953f25f511cec668f6690473fd97b2f65502e4032f4030999a3f0c3.js?body=1" for 127.0.0.1 at 2015-11-14 13:31:36 -0600
+
+
+Started GET "/assets/bootstrap/popover.self-77d8e3a2499c1104ef146396a68b82469ee2bdb365199b874694698d10405e9a.js?body=1" for 127.0.0.1 at 2015-11-14 13:31:36 -0600
+
+
+Started GET "/assets/bootstrap-sprockets.self-fbfa5ad7d9aa0afe439ec4ff3883acc4cb92b62cb67c40d674320c9aa1d4642d.js?body=1" for 127.0.0.1 at 2015-11-14 13:31:36 -0600
+
+
+Started GET "/assets/pages.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 127.0.0.1 at 2015-11-14 13:31:36 -0600
+
+
+Started GET "/assets/profiles.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 127.0.0.1 at 2015-11-14 13:31:36 -0600
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for 127.0.0.1 at 2015-11-14 13:31:36 -0600
+
+
+Started GET "/assets/ethan.jpg" for 127.0.0.1 at 2015-11-14 13:31:36 -0600
+
+
+Started GET "/assets/Profile.jpg" for 127.0.0.1 at 2015-11-14 13:31:36 -0600
+
+
+Started GET "/assets/longley.jpg" for 127.0.0.1 at 2015-11-14 13:31:36 -0600
+
+
+Started GET "/assets/sec.jpg" for 127.0.0.1 at 2015-11-14 13:31:36 -0600
+
+
+Started GET "/pages/profiles" for 127.0.0.1 at 2015-11-14 13:32:02 -0600
+Processing by PagesController#profiles as HTML
+  Rendered pages/profiles.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 116ms (Views: 115.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/profiles.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 127.0.0.1 at 2015-11-14 13:32:02 -0600
+
+
+Started GET "/assets/pages.self-0f2a1e84b538152180e8ff3dfd3d28ea333988019dd8e1d9f732dc264c95f054.css?body=1" for 127.0.0.1 at 2015-11-14 13:32:02 -0600
+
+
+Started GET "/assets/application.self-155c53dcc378f01c0b10c096419c6e1dd91826fbfcce9d530f37a1c147440f39.css?body=1" for 127.0.0.1 at 2015-11-14 13:32:02 -0600
+
+
+Started GET "/assets/bootstrap/alert.self-a29e91e8cd3ddaba9bbc466901d53ec2127e9256b9b941905d525a3a716bd1a5.js?body=1" for 127.0.0.1 at 2015-11-14 13:32:02 -0600
+
+
+Started GET "/assets/bootstrap/affix.self-d2b642d8fbfc1d7041e2edefd66683ada567a980789dcd6f94fddda0b33408b5.js?body=1" for 127.0.0.1 at 2015-11-14 13:32:02 -0600
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for 127.0.0.1 at 2015-11-14 13:32:02 -0600
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for 127.0.0.1 at 2015-11-14 13:32:02 -0600
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for 127.0.0.1 at 2015-11-14 13:32:02 -0600
+
+
+Started GET "/assets/bootstrap/button.self-a6cb16785434acb365ae426aef9f1fce05ed553cae7a965e4471c3da71509175.js?body=1" for 127.0.0.1 at 2015-11-14 13:32:02 -0600
+
+
+Started GET "/assets/bootstrap/carousel.self-57eb8422043cf0a85b7a9dc6843916eb0a3e35b419c7798a5eb254b918997631.js?body=1" for 127.0.0.1 at 2015-11-14 13:32:02 -0600
+
+
+Started GET "/assets/bootstrap/collapse.self-7dc8bfbc2fbfabd2bad62c58ff8ffeaf8f20fb87c7ca6cd35f06d4dc19632587.js?body=1" for 127.0.0.1 at 2015-11-14 13:32:02 -0600
+
+
+Started GET "/assets/bootstrap/dropdown.self-9314126777c6be5443e37ea7f7967d7914d72b3e60449ba50edc967446373059.js?body=1" for 127.0.0.1 at 2015-11-14 13:32:02 -0600
+
+
+Started GET "/assets/bootstrap/tab.self-122235057fbd4c6c7da377d59dc58f47b44cb1088a2e38e6ee6ce9d8ac29a26a.js?body=1" for 127.0.0.1 at 2015-11-14 13:32:02 -0600
+
+
+Started GET "/assets/bootstrap/transition.self-09ff30b1e8a93d1f7728b9855f55d9c9d8d5734c8861e0d8139994e50944572a.js?body=1" for 127.0.0.1 at 2015-11-14 13:32:02 -0600
+
+
+Started GET "/assets/bootstrap/scrollspy.self-a155b9d4b2f978905f0326c0f6635e1134fe91c6bfbfcbad079fa24a9fef2b0e.js?body=1" for 127.0.0.1 at 2015-11-14 13:32:02 -0600
+
+
+Started GET "/assets/bootstrap/modal.self-72f95ffa1071297725a9ac91989693d56d1abf23f441a47455073b0da2857a5b.js?body=1" for 127.0.0.1 at 2015-11-14 13:32:03 -0600
+
+
+Started GET "/assets/bootstrap/tooltip.self-11cf547be953f25f511cec668f6690473fd97b2f65502e4032f4030999a3f0c3.js?body=1" for 127.0.0.1 at 2015-11-14 13:32:03 -0600
+
+
+Started GET "/assets/bootstrap/popover.self-77d8e3a2499c1104ef146396a68b82469ee2bdb365199b874694698d10405e9a.js?body=1" for 127.0.0.1 at 2015-11-14 13:32:03 -0600
+
+
+Started GET "/assets/bootstrap-sprockets.self-fbfa5ad7d9aa0afe439ec4ff3883acc4cb92b62cb67c40d674320c9aa1d4642d.js?body=1" for 127.0.0.1 at 2015-11-14 13:32:03 -0600
+
+
+Started GET "/assets/profiles.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 127.0.0.1 at 2015-11-14 13:32:03 -0600
+
+
+Started GET "/assets/pages.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 127.0.0.1 at 2015-11-14 13:32:03 -0600
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for 127.0.0.1 at 2015-11-14 13:32:03 -0600
+
+
+Started GET "/assets/ethan.jpg" for 127.0.0.1 at 2015-11-14 13:32:03 -0600
+
+
+Started GET "/assets/Profile.jpg" for 127.0.0.1 at 2015-11-14 13:32:03 -0600
+
+
+Started GET "/assets/longley.jpg" for 127.0.0.1 at 2015-11-14 13:32:03 -0600
+
+
+Started GET "/assets/sec.jpg" for 127.0.0.1 at 2015-11-14 13:32:03 -0600
+
+
+Started GET "/pages/home" for 127.0.0.1 at 2015-11-14 13:32:21 -0600
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 123ms (Views: 122.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/about" for 127.0.0.1 at 2015-11-14 13:32:21 -0600
+Processing by PagesController#about as HTML
+  Rendered pages/about.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 115ms (Views: 113.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/contact" for 127.0.0.1 at 2015-11-14 13:32:22 -0600
+Processing by PagesController#contact as HTML
+  Rendered pages/contact.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 109ms (Views: 108.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/profiles" for 127.0.0.1 at 2015-11-14 13:32:23 -0600
+Processing by PagesController#profiles as HTML
+  Rendered pages/profiles.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 122ms (Views: 121.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/home" for 127.0.0.1 at 2015-11-14 13:32:31 -0600
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 114ms (Views: 113.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/home" for 127.0.0.1 at 2015-11-14 13:32:56 -0600
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 126ms (Views: 125.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/profiles.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 127.0.0.1 at 2015-11-14 13:32:56 -0600
+
+
+Started GET "/assets/application.self-155c53dcc378f01c0b10c096419c6e1dd91826fbfcce9d530f37a1c147440f39.css?body=1" for 127.0.0.1 at 2015-11-14 13:32:56 -0600
+
+
+Started GET "/assets/pages.self-0f2a1e84b538152180e8ff3dfd3d28ea333988019dd8e1d9f732dc264c95f054.css?body=1" for 127.0.0.1 at 2015-11-14 13:32:56 -0600
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for 127.0.0.1 at 2015-11-14 13:32:56 -0600
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for 127.0.0.1 at 2015-11-14 13:32:56 -0600
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for 127.0.0.1 at 2015-11-14 13:32:56 -0600
+
+
+Started GET "/assets/bootstrap/affix.self-d2b642d8fbfc1d7041e2edefd66683ada567a980789dcd6f94fddda0b33408b5.js?body=1" for 127.0.0.1 at 2015-11-14 13:32:56 -0600
+
+
+Started GET "/assets/bootstrap/alert.self-a29e91e8cd3ddaba9bbc466901d53ec2127e9256b9b941905d525a3a716bd1a5.js?body=1" for 127.0.0.1 at 2015-11-14 13:32:56 -0600
+
+
+Started GET "/assets/bootstrap/button.self-a6cb16785434acb365ae426aef9f1fce05ed553cae7a965e4471c3da71509175.js?body=1" for 127.0.0.1 at 2015-11-14 13:32:56 -0600
+
+
+Started GET "/assets/bootstrap/carousel.self-57eb8422043cf0a85b7a9dc6843916eb0a3e35b419c7798a5eb254b918997631.js?body=1" for 127.0.0.1 at 2015-11-14 13:32:56 -0600
+
+
+Started GET "/assets/bootstrap/collapse.self-7dc8bfbc2fbfabd2bad62c58ff8ffeaf8f20fb87c7ca6cd35f06d4dc19632587.js?body=1" for 127.0.0.1 at 2015-11-14 13:32:56 -0600
+
+
+Started GET "/assets/bootstrap/dropdown.self-9314126777c6be5443e37ea7f7967d7914d72b3e60449ba50edc967446373059.js?body=1" for 127.0.0.1 at 2015-11-14 13:32:56 -0600
+
+
+Started GET "/assets/bootstrap/tab.self-122235057fbd4c6c7da377d59dc58f47b44cb1088a2e38e6ee6ce9d8ac29a26a.js?body=1" for 127.0.0.1 at 2015-11-14 13:32:56 -0600
+
+
+Started GET "/assets/bootstrap/transition.self-09ff30b1e8a93d1f7728b9855f55d9c9d8d5734c8861e0d8139994e50944572a.js?body=1" for 127.0.0.1 at 2015-11-14 13:32:56 -0600
+
+
+Started GET "/assets/bootstrap/scrollspy.self-a155b9d4b2f978905f0326c0f6635e1134fe91c6bfbfcbad079fa24a9fef2b0e.js?body=1" for 127.0.0.1 at 2015-11-14 13:32:56 -0600
+
+
+Started GET "/assets/bootstrap/modal.self-72f95ffa1071297725a9ac91989693d56d1abf23f441a47455073b0da2857a5b.js?body=1" for 127.0.0.1 at 2015-11-14 13:32:56 -0600
+
+
+Started GET "/assets/bootstrap/tooltip.self-11cf547be953f25f511cec668f6690473fd97b2f65502e4032f4030999a3f0c3.js?body=1" for 127.0.0.1 at 2015-11-14 13:32:56 -0600
+
+
+Started GET "/assets/bootstrap/popover.self-77d8e3a2499c1104ef146396a68b82469ee2bdb365199b874694698d10405e9a.js?body=1" for 127.0.0.1 at 2015-11-14 13:32:56 -0600
+
+
+Started GET "/assets/bootstrap-sprockets.self-fbfa5ad7d9aa0afe439ec4ff3883acc4cb92b62cb67c40d674320c9aa1d4642d.js?body=1" for 127.0.0.1 at 2015-11-14 13:32:56 -0600
+
+
+Started GET "/assets/pages.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 127.0.0.1 at 2015-11-14 13:32:56 -0600
+
+
+Started GET "/assets/profiles.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 127.0.0.1 at 2015-11-14 13:32:56 -0600
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for 127.0.0.1 at 2015-11-14 13:32:57 -0600
+
+
+Started GET "/assets/sec.jpg" for 127.0.0.1 at 2015-11-14 13:32:57 -0600
+
+
+Started GET "/pages/home" for 127.0.0.1 at 2015-11-14 13:34:43 -0600
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 127ms (Views: 126.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/pages.self-0f2a1e84b538152180e8ff3dfd3d28ea333988019dd8e1d9f732dc264c95f054.css?body=1" for 127.0.0.1 at 2015-11-14 13:34:43 -0600
+
+
+Started GET "/assets/application.self-155c53dcc378f01c0b10c096419c6e1dd91826fbfcce9d530f37a1c147440f39.css?body=1" for 127.0.0.1 at 2015-11-14 13:34:43 -0600
+
+
+Started GET "/assets/profiles.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 127.0.0.1 at 2015-11-14 13:34:43 -0600
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for 127.0.0.1 at 2015-11-14 13:34:43 -0600
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for 127.0.0.1 at 2015-11-14 13:34:43 -0600
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for 127.0.0.1 at 2015-11-14 13:34:43 -0600
+
+
+Started GET "/assets/bootstrap/affix.self-d2b642d8fbfc1d7041e2edefd66683ada567a980789dcd6f94fddda0b33408b5.js?body=1" for 127.0.0.1 at 2015-11-14 13:34:43 -0600
+
+
+Started GET "/assets/bootstrap/alert.self-a29e91e8cd3ddaba9bbc466901d53ec2127e9256b9b941905d525a3a716bd1a5.js?body=1" for 127.0.0.1 at 2015-11-14 13:34:43 -0600
+
+
+Started GET "/assets/bootstrap/button.self-a6cb16785434acb365ae426aef9f1fce05ed553cae7a965e4471c3da71509175.js?body=1" for 127.0.0.1 at 2015-11-14 13:34:43 -0600
+
+
+Started GET "/assets/bootstrap/collapse.self-7dc8bfbc2fbfabd2bad62c58ff8ffeaf8f20fb87c7ca6cd35f06d4dc19632587.js?body=1" for 127.0.0.1 at 2015-11-14 13:34:43 -0600
+
+
+Started GET "/assets/bootstrap/carousel.self-57eb8422043cf0a85b7a9dc6843916eb0a3e35b419c7798a5eb254b918997631.js?body=1" for 127.0.0.1 at 2015-11-14 13:34:43 -0600
+
+
+Started GET "/assets/bootstrap/tab.self-122235057fbd4c6c7da377d59dc58f47b44cb1088a2e38e6ee6ce9d8ac29a26a.js?body=1" for 127.0.0.1 at 2015-11-14 13:34:43 -0600
+
+
+Started GET "/assets/bootstrap/dropdown.self-9314126777c6be5443e37ea7f7967d7914d72b3e60449ba50edc967446373059.js?body=1" for 127.0.0.1 at 2015-11-14 13:34:43 -0600
+
+
+Started GET "/assets/bootstrap/transition.self-09ff30b1e8a93d1f7728b9855f55d9c9d8d5734c8861e0d8139994e50944572a.js?body=1" for 127.0.0.1 at 2015-11-14 13:34:43 -0600
+
+
+Started GET "/assets/bootstrap/modal.self-72f95ffa1071297725a9ac91989693d56d1abf23f441a47455073b0da2857a5b.js?body=1" for 127.0.0.1 at 2015-11-14 13:34:43 -0600
+
+
+Started GET "/assets/bootstrap/tooltip.self-11cf547be953f25f511cec668f6690473fd97b2f65502e4032f4030999a3f0c3.js?body=1" for 127.0.0.1 at 2015-11-14 13:34:43 -0600
+
+
+Started GET "/assets/bootstrap/scrollspy.self-a155b9d4b2f978905f0326c0f6635e1134fe91c6bfbfcbad079fa24a9fef2b0e.js?body=1" for 127.0.0.1 at 2015-11-14 13:34:43 -0600
+
+
+Started GET "/assets/bootstrap/popover.self-77d8e3a2499c1104ef146396a68b82469ee2bdb365199b874694698d10405e9a.js?body=1" for 127.0.0.1 at 2015-11-14 13:34:43 -0600
+
+
+Started GET "/assets/bootstrap-sprockets.self-fbfa5ad7d9aa0afe439ec4ff3883acc4cb92b62cb67c40d674320c9aa1d4642d.js?body=1" for 127.0.0.1 at 2015-11-14 13:34:43 -0600
+
+
+Started GET "/assets/pages.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 127.0.0.1 at 2015-11-14 13:34:43 -0600
+
+
+Started GET "/assets/profiles.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 127.0.0.1 at 2015-11-14 13:34:43 -0600
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for 127.0.0.1 at 2015-11-14 13:34:43 -0600
+
+
+Started GET "/assets/sec.jpg" for 127.0.0.1 at 2015-11-14 13:34:43 -0600
+
+
+Started GET "/pages/home" for 127.0.0.1 at 2015-11-14 13:34:51 -0600
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 133ms (Views: 132.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/profiles.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 127.0.0.1 at 2015-11-14 13:34:52 -0600
+
+
+Started GET "/assets/pages.self-0f2a1e84b538152180e8ff3dfd3d28ea333988019dd8e1d9f732dc264c95f054.css?body=1" for 127.0.0.1 at 2015-11-14 13:34:52 -0600
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for 127.0.0.1 at 2015-11-14 13:34:52 -0600
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for 127.0.0.1 at 2015-11-14 13:34:52 -0600
+
+
+Started GET "/assets/application.self-155c53dcc378f01c0b10c096419c6e1dd91826fbfcce9d530f37a1c147440f39.css?body=1" for 127.0.0.1 at 2015-11-14 13:34:52 -0600
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for 127.0.0.1 at 2015-11-14 13:34:52 -0600
+
+
+Started GET "/assets/bootstrap/affix.self-d2b642d8fbfc1d7041e2edefd66683ada567a980789dcd6f94fddda0b33408b5.js?body=1" for 127.0.0.1 at 2015-11-14 13:34:52 -0600
+
+
+Started GET "/assets/bootstrap/alert.self-a29e91e8cd3ddaba9bbc466901d53ec2127e9256b9b941905d525a3a716bd1a5.js?body=1" for 127.0.0.1 at 2015-11-14 13:34:52 -0600
+
+
+Started GET "/assets/bootstrap/button.self-a6cb16785434acb365ae426aef9f1fce05ed553cae7a965e4471c3da71509175.js?body=1" for 127.0.0.1 at 2015-11-14 13:34:52 -0600
+
+
+Started GET "/assets/bootstrap/carousel.self-57eb8422043cf0a85b7a9dc6843916eb0a3e35b419c7798a5eb254b918997631.js?body=1" for 127.0.0.1 at 2015-11-14 13:34:52 -0600
+
+
+Started GET "/assets/bootstrap/collapse.self-7dc8bfbc2fbfabd2bad62c58ff8ffeaf8f20fb87c7ca6cd35f06d4dc19632587.js?body=1" for 127.0.0.1 at 2015-11-14 13:34:52 -0600
+
+
+Started GET "/assets/bootstrap/dropdown.self-9314126777c6be5443e37ea7f7967d7914d72b3e60449ba50edc967446373059.js?body=1" for 127.0.0.1 at 2015-11-14 13:34:52 -0600
+
+
+Started GET "/assets/bootstrap/tab.self-122235057fbd4c6c7da377d59dc58f47b44cb1088a2e38e6ee6ce9d8ac29a26a.js?body=1" for 127.0.0.1 at 2015-11-14 13:34:52 -0600
+
+
+Started GET "/assets/bootstrap/transition.self-09ff30b1e8a93d1f7728b9855f55d9c9d8d5734c8861e0d8139994e50944572a.js?body=1" for 127.0.0.1 at 2015-11-14 13:34:52 -0600
+
+
+Started GET "/assets/bootstrap/scrollspy.self-a155b9d4b2f978905f0326c0f6635e1134fe91c6bfbfcbad079fa24a9fef2b0e.js?body=1" for 127.0.0.1 at 2015-11-14 13:34:52 -0600
+
+
+Started GET "/assets/bootstrap/modal.self-72f95ffa1071297725a9ac91989693d56d1abf23f441a47455073b0da2857a5b.js?body=1" for 127.0.0.1 at 2015-11-14 13:34:52 -0600
+
+
+Started GET "/assets/bootstrap/tooltip.self-11cf547be953f25f511cec668f6690473fd97b2f65502e4032f4030999a3f0c3.js?body=1" for 127.0.0.1 at 2015-11-14 13:34:52 -0600
+
+
+Started GET "/assets/bootstrap/popover.self-77d8e3a2499c1104ef146396a68b82469ee2bdb365199b874694698d10405e9a.js?body=1" for 127.0.0.1 at 2015-11-14 13:34:52 -0600
+
+
+Started GET "/assets/bootstrap-sprockets.self-fbfa5ad7d9aa0afe439ec4ff3883acc4cb92b62cb67c40d674320c9aa1d4642d.js?body=1" for 127.0.0.1 at 2015-11-14 13:34:52 -0600
+
+
+Started GET "/assets/pages.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 127.0.0.1 at 2015-11-14 13:34:52 -0600
+
+
+Started GET "/assets/profiles.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 127.0.0.1 at 2015-11-14 13:34:52 -0600
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for 127.0.0.1 at 2015-11-14 13:34:52 -0600
+
+
+Started GET "/assets/sec.jpg" for 127.0.0.1 at 2015-11-14 13:34:52 -0600
+
+
+Started GET "/pages/home" for 127.0.0.1 at 2015-11-14 13:36:06 -0600
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 114ms (Views: 112.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-155c53dcc378f01c0b10c096419c6e1dd91826fbfcce9d530f37a1c147440f39.css?body=1" for 127.0.0.1 at 2015-11-14 13:36:06 -0600
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for 127.0.0.1 at 2015-11-14 13:36:06 -0600
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for 127.0.0.1 at 2015-11-14 13:36:06 -0600
+
+
+Started GET "/assets/pages.self-0f2a1e84b538152180e8ff3dfd3d28ea333988019dd8e1d9f732dc264c95f054.css?body=1" for 127.0.0.1 at 2015-11-14 13:36:06 -0600
+
+
+Started GET "/assets/profiles.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 127.0.0.1 at 2015-11-14 13:36:06 -0600
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for 127.0.0.1 at 2015-11-14 13:36:06 -0600
+
+
+Started GET "/assets/bootstrap/affix.self-d2b642d8fbfc1d7041e2edefd66683ada567a980789dcd6f94fddda0b33408b5.js?body=1" for 127.0.0.1 at 2015-11-14 13:36:06 -0600
+
+
+Started GET "/assets/bootstrap/alert.self-a29e91e8cd3ddaba9bbc466901d53ec2127e9256b9b941905d525a3a716bd1a5.js?body=1" for 127.0.0.1 at 2015-11-14 13:36:06 -0600
+
+
+Started GET "/assets/bootstrap/button.self-a6cb16785434acb365ae426aef9f1fce05ed553cae7a965e4471c3da71509175.js?body=1" for 127.0.0.1 at 2015-11-14 13:36:06 -0600
+
+
+Started GET "/assets/bootstrap/carousel.self-57eb8422043cf0a85b7a9dc6843916eb0a3e35b419c7798a5eb254b918997631.js?body=1" for 127.0.0.1 at 2015-11-14 13:36:06 -0600
+
+
+Started GET "/assets/bootstrap/collapse.self-7dc8bfbc2fbfabd2bad62c58ff8ffeaf8f20fb87c7ca6cd35f06d4dc19632587.js?body=1" for 127.0.0.1 at 2015-11-14 13:36:06 -0600
+
+
+Started GET "/assets/bootstrap/dropdown.self-9314126777c6be5443e37ea7f7967d7914d72b3e60449ba50edc967446373059.js?body=1" for 127.0.0.1 at 2015-11-14 13:36:06 -0600
+
+
+Started GET "/assets/bootstrap/tab.self-122235057fbd4c6c7da377d59dc58f47b44cb1088a2e38e6ee6ce9d8ac29a26a.js?body=1" for 127.0.0.1 at 2015-11-14 13:36:06 -0600
+
+
+Started GET "/assets/bootstrap/transition.self-09ff30b1e8a93d1f7728b9855f55d9c9d8d5734c8861e0d8139994e50944572a.js?body=1" for 127.0.0.1 at 2015-11-14 13:36:06 -0600
+
+
+Started GET "/assets/bootstrap/scrollspy.self-a155b9d4b2f978905f0326c0f6635e1134fe91c6bfbfcbad079fa24a9fef2b0e.js?body=1" for 127.0.0.1 at 2015-11-14 13:36:06 -0600
+
+
+Started GET "/assets/bootstrap/modal.self-72f95ffa1071297725a9ac91989693d56d1abf23f441a47455073b0da2857a5b.js?body=1" for 127.0.0.1 at 2015-11-14 13:36:06 -0600
+
+
+Started GET "/assets/bootstrap/tooltip.self-11cf547be953f25f511cec668f6690473fd97b2f65502e4032f4030999a3f0c3.js?body=1" for 127.0.0.1 at 2015-11-14 13:36:06 -0600
+
+
+Started GET "/assets/bootstrap/popover.self-77d8e3a2499c1104ef146396a68b82469ee2bdb365199b874694698d10405e9a.js?body=1" for 127.0.0.1 at 2015-11-14 13:36:06 -0600
+
+
+Started GET "/assets/pages.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 127.0.0.1 at 2015-11-14 13:36:06 -0600
+
+
+Started GET "/assets/bootstrap-sprockets.self-fbfa5ad7d9aa0afe439ec4ff3883acc4cb92b62cb67c40d674320c9aa1d4642d.js?body=1" for 127.0.0.1 at 2015-11-14 13:36:06 -0600
+
+
+Started GET "/assets/profiles.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 127.0.0.1 at 2015-11-14 13:36:06 -0600
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for 127.0.0.1 at 2015-11-14 13:36:06 -0600
+
+
+Started GET "/assets/sec.jpg" for 127.0.0.1 at 2015-11-14 13:36:06 -0600
+
+
+Started GET "/pages/home" for 127.0.0.1 at 2015-11-14 13:36:32 -0600
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 114ms (Views: 113.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/profiles.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 127.0.0.1 at 2015-11-14 13:36:33 -0600
+
+
+Started GET "/assets/application.self-155c53dcc378f01c0b10c096419c6e1dd91826fbfcce9d530f37a1c147440f39.css?body=1" for 127.0.0.1 at 2015-11-14 13:36:33 -0600
+
+
+Started GET "/assets/pages.self-0f2a1e84b538152180e8ff3dfd3d28ea333988019dd8e1d9f732dc264c95f054.css?body=1" for 127.0.0.1 at 2015-11-14 13:36:33 -0600
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for 127.0.0.1 at 2015-11-14 13:36:33 -0600
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for 127.0.0.1 at 2015-11-14 13:36:33 -0600
+
+
+Started GET "/assets/bootstrap/button.self-a6cb16785434acb365ae426aef9f1fce05ed553cae7a965e4471c3da71509175.js?body=1" for 127.0.0.1 at 2015-11-14 13:36:33 -0600
+
+
+Started GET "/assets/bootstrap/alert.self-a29e91e8cd3ddaba9bbc466901d53ec2127e9256b9b941905d525a3a716bd1a5.js?body=1" for 127.0.0.1 at 2015-11-14 13:36:33 -0600
+
+
+Started GET "/assets/bootstrap/affix.self-d2b642d8fbfc1d7041e2edefd66683ada567a980789dcd6f94fddda0b33408b5.js?body=1" for 127.0.0.1 at 2015-11-14 13:36:33 -0600
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for 127.0.0.1 at 2015-11-14 13:36:33 -0600
+
+
+Started GET "/assets/bootstrap/carousel.self-57eb8422043cf0a85b7a9dc6843916eb0a3e35b419c7798a5eb254b918997631.js?body=1" for 127.0.0.1 at 2015-11-14 13:36:33 -0600
+
+
+Started GET "/assets/bootstrap/collapse.self-7dc8bfbc2fbfabd2bad62c58ff8ffeaf8f20fb87c7ca6cd35f06d4dc19632587.js?body=1" for 127.0.0.1 at 2015-11-14 13:36:33 -0600
+
+
+Started GET "/assets/bootstrap/dropdown.self-9314126777c6be5443e37ea7f7967d7914d72b3e60449ba50edc967446373059.js?body=1" for 127.0.0.1 at 2015-11-14 13:36:33 -0600
+
+
+Started GET "/assets/bootstrap/tab.self-122235057fbd4c6c7da377d59dc58f47b44cb1088a2e38e6ee6ce9d8ac29a26a.js?body=1" for 127.0.0.1 at 2015-11-14 13:36:33 -0600
+
+
+Started GET "/assets/bootstrap/transition.self-09ff30b1e8a93d1f7728b9855f55d9c9d8d5734c8861e0d8139994e50944572a.js?body=1" for 127.0.0.1 at 2015-11-14 13:36:33 -0600
+
+
+Started GET "/assets/bootstrap/scrollspy.self-a155b9d4b2f978905f0326c0f6635e1134fe91c6bfbfcbad079fa24a9fef2b0e.js?body=1" for 127.0.0.1 at 2015-11-14 13:36:33 -0600
+
+
+Started GET "/assets/bootstrap/modal.self-72f95ffa1071297725a9ac91989693d56d1abf23f441a47455073b0da2857a5b.js?body=1" for 127.0.0.1 at 2015-11-14 13:36:33 -0600
+
+
+Started GET "/assets/bootstrap/tooltip.self-11cf547be953f25f511cec668f6690473fd97b2f65502e4032f4030999a3f0c3.js?body=1" for 127.0.0.1 at 2015-11-14 13:36:33 -0600
+
+
+Started GET "/assets/bootstrap/popover.self-77d8e3a2499c1104ef146396a68b82469ee2bdb365199b874694698d10405e9a.js?body=1" for 127.0.0.1 at 2015-11-14 13:36:33 -0600
+
+
+Started GET "/assets/bootstrap-sprockets.self-fbfa5ad7d9aa0afe439ec4ff3883acc4cb92b62cb67c40d674320c9aa1d4642d.js?body=1" for 127.0.0.1 at 2015-11-14 13:36:33 -0600
+
+
+Started GET "/assets/pages.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 127.0.0.1 at 2015-11-14 13:36:33 -0600
+
+
+Started GET "/assets/profiles.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 127.0.0.1 at 2015-11-14 13:36:33 -0600
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for 127.0.0.1 at 2015-11-14 13:36:33 -0600
+
+
+Started GET "/assets/sec.jpg" for 127.0.0.1 at 2015-11-14 13:36:33 -0600
+
+
+Started GET "/pages/home" for 127.0.0.1 at 2015-11-14 13:37:21 -0600
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 3119ms (Views: 3118.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/pages.self-c082a89d506426687f2ceb82934071e84ba09900d89169797ecea2c2656af432.css?body=1" for 127.0.0.1 at 2015-11-14 13:37:24 -0600
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for 127.0.0.1 at 2015-11-14 13:37:24 -0600
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for 127.0.0.1 at 2015-11-14 13:37:24 -0600
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for 127.0.0.1 at 2015-11-14 13:37:24 -0600
+
+
+Started GET "/assets/application.self-155c53dcc378f01c0b10c096419c6e1dd91826fbfcce9d530f37a1c147440f39.css?body=1" for 127.0.0.1 at 2015-11-14 13:37:24 -0600
+
+
+Started GET "/assets/profiles.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 127.0.0.1 at 2015-11-14 13:37:24 -0600
+
+
+Started GET "/assets/bootstrap/affix.self-d2b642d8fbfc1d7041e2edefd66683ada567a980789dcd6f94fddda0b33408b5.js?body=1" for 127.0.0.1 at 2015-11-14 13:37:24 -0600
+
+
+Started GET "/assets/bootstrap/alert.self-a29e91e8cd3ddaba9bbc466901d53ec2127e9256b9b941905d525a3a716bd1a5.js?body=1" for 127.0.0.1 at 2015-11-14 13:37:24 -0600
+
+
+Started GET "/assets/bootstrap/button.self-a6cb16785434acb365ae426aef9f1fce05ed553cae7a965e4471c3da71509175.js?body=1" for 127.0.0.1 at 2015-11-14 13:37:24 -0600
+
+
+Started GET "/assets/bootstrap/carousel.self-57eb8422043cf0a85b7a9dc6843916eb0a3e35b419c7798a5eb254b918997631.js?body=1" for 127.0.0.1 at 2015-11-14 13:37:24 -0600
+
+
+Started GET "/assets/bootstrap/dropdown.self-9314126777c6be5443e37ea7f7967d7914d72b3e60449ba50edc967446373059.js?body=1" for 127.0.0.1 at 2015-11-14 13:37:24 -0600
+
+
+Started GET "/assets/bootstrap/collapse.self-7dc8bfbc2fbfabd2bad62c58ff8ffeaf8f20fb87c7ca6cd35f06d4dc19632587.js?body=1" for 127.0.0.1 at 2015-11-14 13:37:24 -0600
+
+
+Started GET "/assets/bootstrap/tab.self-122235057fbd4c6c7da377d59dc58f47b44cb1088a2e38e6ee6ce9d8ac29a26a.js?body=1" for 127.0.0.1 at 2015-11-14 13:37:24 -0600
+
+
+Started GET "/assets/bootstrap/transition.self-09ff30b1e8a93d1f7728b9855f55d9c9d8d5734c8861e0d8139994e50944572a.js?body=1" for 127.0.0.1 at 2015-11-14 13:37:24 -0600
+
+
+Started GET "/assets/bootstrap/modal.self-72f95ffa1071297725a9ac91989693d56d1abf23f441a47455073b0da2857a5b.js?body=1" for 127.0.0.1 at 2015-11-14 13:37:24 -0600
+
+
+Started GET "/assets/bootstrap/scrollspy.self-a155b9d4b2f978905f0326c0f6635e1134fe91c6bfbfcbad079fa24a9fef2b0e.js?body=1" for 127.0.0.1 at 2015-11-14 13:37:24 -0600
+
+
+Started GET "/assets/bootstrap/tooltip.self-11cf547be953f25f511cec668f6690473fd97b2f65502e4032f4030999a3f0c3.js?body=1" for 127.0.0.1 at 2015-11-14 13:37:24 -0600
+
+
+Started GET "/assets/bootstrap/popover.self-77d8e3a2499c1104ef146396a68b82469ee2bdb365199b874694698d10405e9a.js?body=1" for 127.0.0.1 at 2015-11-14 13:37:24 -0600
+
+
+Started GET "/assets/bootstrap-sprockets.self-fbfa5ad7d9aa0afe439ec4ff3883acc4cb92b62cb67c40d674320c9aa1d4642d.js?body=1" for 127.0.0.1 at 2015-11-14 13:37:24 -0600
+
+
+Started GET "/assets/pages.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 127.0.0.1 at 2015-11-14 13:37:24 -0600
+
+
+Started GET "/assets/profiles.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 127.0.0.1 at 2015-11-14 13:37:24 -0600
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for 127.0.0.1 at 2015-11-14 13:37:24 -0600
+
+
+Started GET "/assets/sec.jpg" for 127.0.0.1 at 2015-11-14 13:37:25 -0600
+
+
+Started GET "/pages/home" for 127.0.0.1 at 2015-11-14 13:38:37 -0600
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 120ms (Views: 118.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/profiles.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 127.0.0.1 at 2015-11-14 13:38:37 -0600
+
+
+Started GET "/assets/application.self-155c53dcc378f01c0b10c096419c6e1dd91826fbfcce9d530f37a1c147440f39.css?body=1" for 127.0.0.1 at 2015-11-14 13:38:37 -0600
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for 127.0.0.1 at 2015-11-14 13:38:37 -0600
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for 127.0.0.1 at 2015-11-14 13:38:37 -0600
+
+
+Started GET "/assets/bootstrap/affix.self-d2b642d8fbfc1d7041e2edefd66683ada567a980789dcd6f94fddda0b33408b5.js?body=1" for 127.0.0.1 at 2015-11-14 13:38:37 -0600
+
+
+Started GET "/assets/pages.self-0f2a1e84b538152180e8ff3dfd3d28ea333988019dd8e1d9f732dc264c95f054.css?body=1" for 127.0.0.1 at 2015-11-14 13:38:37 -0600
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for 127.0.0.1 at 2015-11-14 13:38:37 -0600
+
+
+Started GET "/assets/bootstrap/alert.self-a29e91e8cd3ddaba9bbc466901d53ec2127e9256b9b941905d525a3a716bd1a5.js?body=1" for 127.0.0.1 at 2015-11-14 13:38:37 -0600
+
+
+Started GET "/assets/bootstrap/button.self-a6cb16785434acb365ae426aef9f1fce05ed553cae7a965e4471c3da71509175.js?body=1" for 127.0.0.1 at 2015-11-14 13:38:37 -0600
+
+
+Started GET "/assets/bootstrap/carousel.self-57eb8422043cf0a85b7a9dc6843916eb0a3e35b419c7798a5eb254b918997631.js?body=1" for 127.0.0.1 at 2015-11-14 13:38:37 -0600
+
+
+Started GET "/assets/bootstrap/collapse.self-7dc8bfbc2fbfabd2bad62c58ff8ffeaf8f20fb87c7ca6cd35f06d4dc19632587.js?body=1" for 127.0.0.1 at 2015-11-14 13:38:37 -0600
+
+
+Started GET "/assets/bootstrap/dropdown.self-9314126777c6be5443e37ea7f7967d7914d72b3e60449ba50edc967446373059.js?body=1" for 127.0.0.1 at 2015-11-14 13:38:37 -0600
+
+
+Started GET "/assets/bootstrap/transition.self-09ff30b1e8a93d1f7728b9855f55d9c9d8d5734c8861e0d8139994e50944572a.js?body=1" for 127.0.0.1 at 2015-11-14 13:38:37 -0600
+
+
+Started GET "/assets/bootstrap/tab.self-122235057fbd4c6c7da377d59dc58f47b44cb1088a2e38e6ee6ce9d8ac29a26a.js?body=1" for 127.0.0.1 at 2015-11-14 13:38:37 -0600
+
+
+Started GET "/assets/bootstrap/scrollspy.self-a155b9d4b2f978905f0326c0f6635e1134fe91c6bfbfcbad079fa24a9fef2b0e.js?body=1" for 127.0.0.1 at 2015-11-14 13:38:37 -0600
+
+
+Started GET "/assets/bootstrap/modal.self-72f95ffa1071297725a9ac91989693d56d1abf23f441a47455073b0da2857a5b.js?body=1" for 127.0.0.1 at 2015-11-14 13:38:37 -0600
+
+
+Started GET "/assets/bootstrap/tooltip.self-11cf547be953f25f511cec668f6690473fd97b2f65502e4032f4030999a3f0c3.js?body=1" for 127.0.0.1 at 2015-11-14 13:38:37 -0600
+
+
+Started GET "/assets/bootstrap/popover.self-77d8e3a2499c1104ef146396a68b82469ee2bdb365199b874694698d10405e9a.js?body=1" for 127.0.0.1 at 2015-11-14 13:38:37 -0600
+
+
+Started GET "/assets/bootstrap-sprockets.self-fbfa5ad7d9aa0afe439ec4ff3883acc4cb92b62cb67c40d674320c9aa1d4642d.js?body=1" for 127.0.0.1 at 2015-11-14 13:38:37 -0600
+
+
+Started GET "/assets/pages.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 127.0.0.1 at 2015-11-14 13:38:37 -0600
+
+
+Started GET "/assets/profiles.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 127.0.0.1 at 2015-11-14 13:38:37 -0600
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for 127.0.0.1 at 2015-11-14 13:38:37 -0600
+
+
+Started GET "/pages/home" for 127.0.0.1 at 2015-11-14 13:38:49 -0600
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 116ms (Views: 115.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/pages.self-0f2a1e84b538152180e8ff3dfd3d28ea333988019dd8e1d9f732dc264c95f054.css?body=1" for 127.0.0.1 at 2015-11-14 13:38:49 -0600
+
+
+Started GET "/assets/profiles.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 127.0.0.1 at 2015-11-14 13:38:49 -0600
+
+
+Started GET "/assets/application.self-155c53dcc378f01c0b10c096419c6e1dd91826fbfcce9d530f37a1c147440f39.css?body=1" for 127.0.0.1 at 2015-11-14 13:38:49 -0600
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for 127.0.0.1 at 2015-11-14 13:38:49 -0600
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for 127.0.0.1 at 2015-11-14 13:38:49 -0600
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for 127.0.0.1 at 2015-11-14 13:38:49 -0600
+
+
+Started GET "/assets/bootstrap/affix.self-d2b642d8fbfc1d7041e2edefd66683ada567a980789dcd6f94fddda0b33408b5.js?body=1" for 127.0.0.1 at 2015-11-14 13:38:49 -0600
+
+
+Started GET "/assets/bootstrap/alert.self-a29e91e8cd3ddaba9bbc466901d53ec2127e9256b9b941905d525a3a716bd1a5.js?body=1" for 127.0.0.1 at 2015-11-14 13:38:49 -0600
+
+
+Started GET "/assets/bootstrap/button.self-a6cb16785434acb365ae426aef9f1fce05ed553cae7a965e4471c3da71509175.js?body=1" for 127.0.0.1 at 2015-11-14 13:38:49 -0600
+
+
+Started GET "/assets/bootstrap/collapse.self-7dc8bfbc2fbfabd2bad62c58ff8ffeaf8f20fb87c7ca6cd35f06d4dc19632587.js?body=1" for 127.0.0.1 at 2015-11-14 13:38:49 -0600
+
+
+Started GET "/assets/bootstrap/carousel.self-57eb8422043cf0a85b7a9dc6843916eb0a3e35b419c7798a5eb254b918997631.js?body=1" for 127.0.0.1 at 2015-11-14 13:38:49 -0600
+
+
+Started GET "/assets/bootstrap/dropdown.self-9314126777c6be5443e37ea7f7967d7914d72b3e60449ba50edc967446373059.js?body=1" for 127.0.0.1 at 2015-11-14 13:38:49 -0600
+
+
+Started GET "/assets/bootstrap/tab.self-122235057fbd4c6c7da377d59dc58f47b44cb1088a2e38e6ee6ce9d8ac29a26a.js?body=1" for 127.0.0.1 at 2015-11-14 13:38:49 -0600
+
+
+Started GET "/assets/bootstrap/transition.self-09ff30b1e8a93d1f7728b9855f55d9c9d8d5734c8861e0d8139994e50944572a.js?body=1" for 127.0.0.1 at 2015-11-14 13:38:49 -0600
+
+
+Started GET "/assets/bootstrap/scrollspy.self-a155b9d4b2f978905f0326c0f6635e1134fe91c6bfbfcbad079fa24a9fef2b0e.js?body=1" for 127.0.0.1 at 2015-11-14 13:38:49 -0600
+
+
+Started GET "/assets/bootstrap/modal.self-72f95ffa1071297725a9ac91989693d56d1abf23f441a47455073b0da2857a5b.js?body=1" for 127.0.0.1 at 2015-11-14 13:38:49 -0600
+
+
+Started GET "/assets/bootstrap/tooltip.self-11cf547be953f25f511cec668f6690473fd97b2f65502e4032f4030999a3f0c3.js?body=1" for 127.0.0.1 at 2015-11-14 13:38:49 -0600
+
+
+Started GET "/assets/bootstrap/popover.self-77d8e3a2499c1104ef146396a68b82469ee2bdb365199b874694698d10405e9a.js?body=1" for 127.0.0.1 at 2015-11-14 13:38:49 -0600
+
+
+Started GET "/assets/bootstrap-sprockets.self-fbfa5ad7d9aa0afe439ec4ff3883acc4cb92b62cb67c40d674320c9aa1d4642d.js?body=1" for 127.0.0.1 at 2015-11-14 13:38:49 -0600
+
+
+Started GET "/assets/pages.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 127.0.0.1 at 2015-11-14 13:38:49 -0600
+
+
+Started GET "/assets/profiles.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 127.0.0.1 at 2015-11-14 13:38:49 -0600
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for 127.0.0.1 at 2015-11-14 13:38:49 -0600
+
+
+Started GET "/pages/profiles" for 127.0.0.1 at 2015-11-14 13:38:50 -0600
+Processing by PagesController#profiles as HTML
+  Rendered pages/profiles.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 112ms (Views: 111.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/Profile.jpg" for 127.0.0.1 at 2015-11-14 13:38:51 -0600
+
+
+Started GET "/assets/ethan.jpg" for 127.0.0.1 at 2015-11-14 13:38:51 -0600
+
+
+Started GET "/assets/longley.jpg" for 127.0.0.1 at 2015-11-14 13:38:51 -0600
+
+
+Started GET "/pages/contact" for 127.0.0.1 at 2015-11-14 13:38:52 -0600
+Processing by PagesController#contact as HTML
+  Rendered pages/contact.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 114ms (Views: 112.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/about" for 127.0.0.1 at 2015-11-14 13:38:53 -0600
+Processing by PagesController#about as HTML
+  Rendered pages/about.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 108ms (Views: 107.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/home" for 127.0.0.1 at 2015-11-14 13:38:54 -0600
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 126ms (Views: 125.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/profiles" for 127.0.0.1 at 2015-11-14 13:38:54 -0600
+Processing by PagesController#profiles as HTML
+  Rendered pages/profiles.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 140ms (Views: 139.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/profiles" for 127.0.0.1 at 2015-11-14 13:40:00 -0600
+Processing by PagesController#profiles as HTML
+  Rendered pages/profiles.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 3107ms (Views: 3105.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/profiles.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 127.0.0.1 at 2015-11-14 13:40:03 -0600
+
+
+Started GET "/assets/pages.self-afb8298e3366f91c1d61aa3b11eb694cdc43cfa09be3d61a78cde5a16a374ea4.css?body=1" for 127.0.0.1 at 2015-11-14 13:40:03 -0600
+
+
+Started GET "/assets/application.self-155c53dcc378f01c0b10c096419c6e1dd91826fbfcce9d530f37a1c147440f39.css?body=1" for 127.0.0.1 at 2015-11-14 13:40:03 -0600
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for 127.0.0.1 at 2015-11-14 13:40:03 -0600
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for 127.0.0.1 at 2015-11-14 13:40:03 -0600
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for 127.0.0.1 at 2015-11-14 13:40:03 -0600
+
+
+Started GET "/assets/bootstrap/affix.self-d2b642d8fbfc1d7041e2edefd66683ada567a980789dcd6f94fddda0b33408b5.js?body=1" for 127.0.0.1 at 2015-11-14 13:40:03 -0600
+
+
+Started GET "/assets/bootstrap/alert.self-a29e91e8cd3ddaba9bbc466901d53ec2127e9256b9b941905d525a3a716bd1a5.js?body=1" for 127.0.0.1 at 2015-11-14 13:40:03 -0600
+
+
+Started GET "/assets/bootstrap/collapse.self-7dc8bfbc2fbfabd2bad62c58ff8ffeaf8f20fb87c7ca6cd35f06d4dc19632587.js?body=1" for 127.0.0.1 at 2015-11-14 13:40:03 -0600
+
+
+Started GET "/assets/bootstrap/button.self-a6cb16785434acb365ae426aef9f1fce05ed553cae7a965e4471c3da71509175.js?body=1" for 127.0.0.1 at 2015-11-14 13:40:03 -0600
+
+
+Started GET "/assets/bootstrap/carousel.self-57eb8422043cf0a85b7a9dc6843916eb0a3e35b419c7798a5eb254b918997631.js?body=1" for 127.0.0.1 at 2015-11-14 13:40:03 -0600
+
+
+Started GET "/assets/bootstrap/dropdown.self-9314126777c6be5443e37ea7f7967d7914d72b3e60449ba50edc967446373059.js?body=1" for 127.0.0.1 at 2015-11-14 13:40:03 -0600
+
+
+Started GET "/assets/bootstrap/tab.self-122235057fbd4c6c7da377d59dc58f47b44cb1088a2e38e6ee6ce9d8ac29a26a.js?body=1" for 127.0.0.1 at 2015-11-14 13:40:03 -0600
+
+
+Started GET "/assets/bootstrap/transition.self-09ff30b1e8a93d1f7728b9855f55d9c9d8d5734c8861e0d8139994e50944572a.js?body=1" for 127.0.0.1 at 2015-11-14 13:40:03 -0600
+
+
+Started GET "/assets/bootstrap/scrollspy.self-a155b9d4b2f978905f0326c0f6635e1134fe91c6bfbfcbad079fa24a9fef2b0e.js?body=1" for 127.0.0.1 at 2015-11-14 13:40:04 -0600
+
+
+Started GET "/assets/bootstrap/modal.self-72f95ffa1071297725a9ac91989693d56d1abf23f441a47455073b0da2857a5b.js?body=1" for 127.0.0.1 at 2015-11-14 13:40:04 -0600
+
+
+Started GET "/assets/bootstrap/tooltip.self-11cf547be953f25f511cec668f6690473fd97b2f65502e4032f4030999a3f0c3.js?body=1" for 127.0.0.1 at 2015-11-14 13:40:04 -0600
+
+
+Started GET "/assets/bootstrap/popover.self-77d8e3a2499c1104ef146396a68b82469ee2bdb365199b874694698d10405e9a.js?body=1" for 127.0.0.1 at 2015-11-14 13:40:04 -0600
+
+
+Started GET "/assets/bootstrap-sprockets.self-fbfa5ad7d9aa0afe439ec4ff3883acc4cb92b62cb67c40d674320c9aa1d4642d.js?body=1" for 127.0.0.1 at 2015-11-14 13:40:04 -0600
+
+
+Started GET "/assets/profiles.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 127.0.0.1 at 2015-11-14 13:40:04 -0600
+
+
+Started GET "/assets/pages.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 127.0.0.1 at 2015-11-14 13:40:04 -0600
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for 127.0.0.1 at 2015-11-14 13:40:04 -0600
+
+
+Started GET "/assets/Profile.jpg" for 127.0.0.1 at 2015-11-14 13:40:04 -0600
+
+
+Started GET "/assets/ethan.jpg" for 127.0.0.1 at 2015-11-14 13:40:04 -0600
+
+
+Started GET "/assets/longley.jpg" for 127.0.0.1 at 2015-11-14 13:40:04 -0600
+
+
+Started GET "/assets/sec.jpg" for 127.0.0.1 at 2015-11-14 13:40:04 -0600
+
+
+Started GET "/pages/home" for 127.0.0.1 at 2015-11-14 13:40:04 -0600
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 138ms (Views: 137.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/home" for 127.0.0.1 at 2015-11-14 13:41:50 -0600
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (0.0ms)
+Completed 500 Internal Server Error in 2328ms (ActiveRecord: 0.0ms)
+
+ActionView::Template::Error (Invalid CSS after "...ha(opacity=40)"": expected ")", was ";);"):
+    11: 
+    12: 	<head>
+    13: 		<title>Mallard Security</title>
+    14:   			<%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track' => true %>
+    15:   			<%= javascript_include_tag 'application', 'data-turbolinks-track' => true %>
+    16:   			<%= csrf_meta_tags %>
+    17: 	</head>
+  app/assets/stylesheets/pages.scss:3
+  app/views/layouts/application.html.erb:14:in `_app_views_layouts_application_html_erb___1184625799506843968_70281108091200'
+
+
+  Rendered /home/kcmallard/.rvm/gems/ruby-2.2.1/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/_source.erb (18.9ms)
+  Rendered /home/kcmallard/.rvm/gems/ruby-2.2.1/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (5.9ms)
+  Rendered /home/kcmallard/.rvm/gems/ruby-2.2.1/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (0.9ms)
+  Rendered /home/kcmallard/.rvm/gems/ruby-2.2.1/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (54.4ms)
+  Rendered /home/kcmallard/.rvm/gems/ruby-2.2.1/gems/web-console-2.2.1/lib/web_console/templates/_markup.html.erb (0.7ms)
+  Rendered /home/kcmallard/.rvm/gems/ruby-2.2.1/gems/web-console-2.2.1/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.4ms)
+  Rendered /home/kcmallard/.rvm/gems/ruby-2.2.1/gems/web-console-2.2.1/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.4ms)
+  Rendered /home/kcmallard/.rvm/gems/ruby-2.2.1/gems/web-console-2.2.1/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.3ms)
+  Rendered /home/kcmallard/.rvm/gems/ruby-2.2.1/gems/web-console-2.2.1/lib/web_console/templates/console.js.erb within layouts/javascript (34.0ms)
+  Rendered /home/kcmallard/.rvm/gems/ruby-2.2.1/gems/web-console-2.2.1/lib/web_console/templates/main.js.erb within layouts/javascript (0.5ms)
+  Rendered /home/kcmallard/.rvm/gems/ruby-2.2.1/gems/web-console-2.2.1/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.7ms)
+  Rendered /home/kcmallard/.rvm/gems/ruby-2.2.1/gems/web-console-2.2.1/lib/web_console/templates/index.html.erb (88.2ms)
+
+
+Started GET "/pages/home" for 127.0.0.1 at 2015-11-14 13:42:18 -0600
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (0.1ms)
+Completed 500 Internal Server Error in 2448ms (ActiveRecord: 0.0ms)
+
+ActionView::Template::Error (Invalid CSS after "...e="opacity:0.4"": expected ")", was "; filter:"alpha..."):
+    11: 
+    12: 	<head>
+    13: 		<title>Mallard Security</title>
+    14:   			<%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track' => true %>
+    15:   			<%= javascript_include_tag 'application', 'data-turbolinks-track' => true %>
+    16:   			<%= csrf_meta_tags %>
+    17: 	</head>
+  app/assets/stylesheets/pages.scss:3
+  app/views/layouts/application.html.erb:14:in `_app_views_layouts_application_html_erb___1184625799506843968_70281108091200'
+
+
+  Rendered /home/kcmallard/.rvm/gems/ruby-2.2.1/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/_source.erb (10.6ms)
+  Rendered /home/kcmallard/.rvm/gems/ruby-2.2.1/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (3.6ms)
+  Rendered /home/kcmallard/.rvm/gems/ruby-2.2.1/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (0.9ms)
+  Rendered /home/kcmallard/.rvm/gems/ruby-2.2.1/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (27.7ms)
+  Rendered /home/kcmallard/.rvm/gems/ruby-2.2.1/gems/web-console-2.2.1/lib/web_console/templates/_markup.html.erb (0.3ms)
+  Rendered /home/kcmallard/.rvm/gems/ruby-2.2.1/gems/web-console-2.2.1/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.4ms)
+  Rendered /home/kcmallard/.rvm/gems/ruby-2.2.1/gems/web-console-2.2.1/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.2ms)
+  Rendered /home/kcmallard/.rvm/gems/ruby-2.2.1/gems/web-console-2.2.1/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.2ms)
+  Rendered /home/kcmallard/.rvm/gems/ruby-2.2.1/gems/web-console-2.2.1/lib/web_console/templates/console.js.erb within layouts/javascript (14.7ms)
+  Rendered /home/kcmallard/.rvm/gems/ruby-2.2.1/gems/web-console-2.2.1/lib/web_console/templates/main.js.erb within layouts/javascript (0.2ms)
+  Rendered /home/kcmallard/.rvm/gems/ruby-2.2.1/gems/web-console-2.2.1/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.3ms)
+  Rendered /home/kcmallard/.rvm/gems/ruby-2.2.1/gems/web-console-2.2.1/lib/web_console/templates/index.html.erb (28.8ms)
+
+
+Started GET "/pages/home" for 127.0.0.1 at 2015-11-14 13:42:39 -0600
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (0.0ms)
+Completed 500 Internal Server Error in 2248ms (ActiveRecord: 0.0ms)
+
+ActionView::Template::Error (Invalid CSS after "...ha(opacity=40)"": expected ")", was ";"):
+    11: 
+    12: 	<head>
+    13: 		<title>Mallard Security</title>
+    14:   			<%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track' => true %>
+    15:   			<%= javascript_include_tag 'application', 'data-turbolinks-track' => true %>
+    16:   			<%= csrf_meta_tags %>
+    17: 	</head>
+  app/assets/stylesheets/pages.scss:3
+  app/views/layouts/application.html.erb:14:in `_app_views_layouts_application_html_erb___1184625799506843968_70281108091200'
+
+
+  Rendered /home/kcmallard/.rvm/gems/ruby-2.2.1/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/_source.erb (10.3ms)
+  Rendered /home/kcmallard/.rvm/gems/ruby-2.2.1/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (4.1ms)
+  Rendered /home/kcmallard/.rvm/gems/ruby-2.2.1/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (0.9ms)
+  Rendered /home/kcmallard/.rvm/gems/ruby-2.2.1/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (28.1ms)
+  Rendered /home/kcmallard/.rvm/gems/ruby-2.2.1/gems/web-console-2.2.1/lib/web_console/templates/_markup.html.erb (0.3ms)
+  Rendered /home/kcmallard/.rvm/gems/ruby-2.2.1/gems/web-console-2.2.1/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.5ms)
+  Rendered /home/kcmallard/.rvm/gems/ruby-2.2.1/gems/web-console-2.2.1/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.3ms)
+  Rendered /home/kcmallard/.rvm/gems/ruby-2.2.1/gems/web-console-2.2.1/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.6ms)
+  Rendered /home/kcmallard/.rvm/gems/ruby-2.2.1/gems/web-console-2.2.1/lib/web_console/templates/console.js.erb within layouts/javascript (24.4ms)
+  Rendered /home/kcmallard/.rvm/gems/ruby-2.2.1/gems/web-console-2.2.1/lib/web_console/templates/main.js.erb within layouts/javascript (0.4ms)
+  Rendered /home/kcmallard/.rvm/gems/ruby-2.2.1/gems/web-console-2.2.1/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.4ms)
+  Rendered /home/kcmallard/.rvm/gems/ruby-2.2.1/gems/web-console-2.2.1/lib/web_console/templates/index.html.erb (42.7ms)
+
+
+Started GET "/pages/home" for 127.0.0.1 at 2015-11-14 13:42:56 -0600
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 3265ms (Views: 3264.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/profiles.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 127.0.0.1 at 2015-11-14 13:42:59 -0600
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for 127.0.0.1 at 2015-11-14 13:42:59 -0600
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for 127.0.0.1 at 2015-11-14 13:42:59 -0600
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for 127.0.0.1 at 2015-11-14 13:42:59 -0600
+
+
+Started GET "/assets/application.self-155c53dcc378f01c0b10c096419c6e1dd91826fbfcce9d530f37a1c147440f39.css?body=1" for 127.0.0.1 at 2015-11-14 13:42:59 -0600
+
+
+Started GET "/assets/bootstrap/affix.self-d2b642d8fbfc1d7041e2edefd66683ada567a980789dcd6f94fddda0b33408b5.js?body=1" for 127.0.0.1 at 2015-11-14 13:42:59 -0600
+
+
+Started GET "/assets/pages.self-d3265947df0bbf20a86fd606e2d380d4b3a33c74a9864f7def46357195516634.css?body=1" for 127.0.0.1 at 2015-11-14 13:42:59 -0600
+
+
+Started GET "/assets/bootstrap/alert.self-a29e91e8cd3ddaba9bbc466901d53ec2127e9256b9b941905d525a3a716bd1a5.js?body=1" for 127.0.0.1 at 2015-11-14 13:42:59 -0600
+
+
+Started GET "/assets/bootstrap/button.self-a6cb16785434acb365ae426aef9f1fce05ed553cae7a965e4471c3da71509175.js?body=1" for 127.0.0.1 at 2015-11-14 13:42:59 -0600
+
+
+Started GET "/assets/bootstrap/carousel.self-57eb8422043cf0a85b7a9dc6843916eb0a3e35b419c7798a5eb254b918997631.js?body=1" for 127.0.0.1 at 2015-11-14 13:42:59 -0600
+
+
+Started GET "/assets/bootstrap/collapse.self-7dc8bfbc2fbfabd2bad62c58ff8ffeaf8f20fb87c7ca6cd35f06d4dc19632587.js?body=1" for 127.0.0.1 at 2015-11-14 13:42:59 -0600
+
+
+Started GET "/assets/bootstrap/dropdown.self-9314126777c6be5443e37ea7f7967d7914d72b3e60449ba50edc967446373059.js?body=1" for 127.0.0.1 at 2015-11-14 13:42:59 -0600
+
+
+Started GET "/assets/bootstrap/tab.self-122235057fbd4c6c7da377d59dc58f47b44cb1088a2e38e6ee6ce9d8ac29a26a.js?body=1" for 127.0.0.1 at 2015-11-14 13:42:59 -0600
+
+
+Started GET "/assets/bootstrap/transition.self-09ff30b1e8a93d1f7728b9855f55d9c9d8d5734c8861e0d8139994e50944572a.js?body=1" for 127.0.0.1 at 2015-11-14 13:42:59 -0600
+
+
+Started GET "/assets/bootstrap/scrollspy.self-a155b9d4b2f978905f0326c0f6635e1134fe91c6bfbfcbad079fa24a9fef2b0e.js?body=1" for 127.0.0.1 at 2015-11-14 13:42:59 -0600
+
+
+Started GET "/assets/bootstrap/modal.self-72f95ffa1071297725a9ac91989693d56d1abf23f441a47455073b0da2857a5b.js?body=1" for 127.0.0.1 at 2015-11-14 13:42:59 -0600
+
+
+Started GET "/assets/bootstrap/tooltip.self-11cf547be953f25f511cec668f6690473fd97b2f65502e4032f4030999a3f0c3.js?body=1" for 127.0.0.1 at 2015-11-14 13:42:59 -0600
+
+
+Started GET "/assets/bootstrap/popover.self-77d8e3a2499c1104ef146396a68b82469ee2bdb365199b874694698d10405e9a.js?body=1" for 127.0.0.1 at 2015-11-14 13:42:59 -0600
+
+
+Started GET "/assets/bootstrap-sprockets.self-fbfa5ad7d9aa0afe439ec4ff3883acc4cb92b62cb67c40d674320c9aa1d4642d.js?body=1" for 127.0.0.1 at 2015-11-14 13:42:59 -0600
+
+
+Started GET "/assets/pages.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 127.0.0.1 at 2015-11-14 13:42:59 -0600
+
+
+Started GET "/assets/profiles.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 127.0.0.1 at 2015-11-14 13:42:59 -0600
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for 127.0.0.1 at 2015-11-14 13:42:59 -0600
+
+
+Started GET "/pages/about" for 127.0.0.1 at 2015-11-14 13:43:01 -0600
+Processing by PagesController#about as HTML
+  Rendered pages/about.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 103ms (Views: 102.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/profiles" for 127.0.0.1 at 2015-11-14 13:43:02 -0600
+Processing by PagesController#profiles as HTML
+  Rendered pages/profiles.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 109ms (Views: 108.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/Profile.jpg" for 127.0.0.1 at 2015-11-14 13:43:02 -0600
+
+
+Started GET "/assets/ethan.jpg" for 127.0.0.1 at 2015-11-14 13:43:02 -0600
+
+
+Started GET "/assets/longley.jpg" for 127.0.0.1 at 2015-11-14 13:43:02 -0600
+
+
+Started GET "/pages/home" for 127.0.0.1 at 2015-11-14 13:43:03 -0600
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 119ms (Views: 118.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/home" for 127.0.0.1 at 2015-11-14 13:44:27 -0600
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 105ms (Views: 104.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/profiles.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 127.0.0.1 at 2015-11-14 13:44:27 -0600
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for 127.0.0.1 at 2015-11-14 13:44:27 -0600
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for 127.0.0.1 at 2015-11-14 13:44:27 -0600
+
+
+Started GET "/assets/application.self-155c53dcc378f01c0b10c096419c6e1dd91826fbfcce9d530f37a1c147440f39.css?body=1" for 127.0.0.1 at 2015-11-14 13:44:27 -0600
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for 127.0.0.1 at 2015-11-14 13:44:27 -0600
+
+
+Started GET "/assets/pages.self-afb8298e3366f91c1d61aa3b11eb694cdc43cfa09be3d61a78cde5a16a374ea4.css?body=1" for 127.0.0.1 at 2015-11-14 13:44:27 -0600
+
+
+Started GET "/assets/bootstrap/affix.self-d2b642d8fbfc1d7041e2edefd66683ada567a980789dcd6f94fddda0b33408b5.js?body=1" for 127.0.0.1 at 2015-11-14 13:44:27 -0600
+
+
+Started GET "/assets/bootstrap/alert.self-a29e91e8cd3ddaba9bbc466901d53ec2127e9256b9b941905d525a3a716bd1a5.js?body=1" for 127.0.0.1 at 2015-11-14 13:44:27 -0600
+
+
+Started GET "/assets/bootstrap/button.self-a6cb16785434acb365ae426aef9f1fce05ed553cae7a965e4471c3da71509175.js?body=1" for 127.0.0.1 at 2015-11-14 13:44:27 -0600
+
+
+Started GET "/assets/bootstrap/collapse.self-7dc8bfbc2fbfabd2bad62c58ff8ffeaf8f20fb87c7ca6cd35f06d4dc19632587.js?body=1" for 127.0.0.1 at 2015-11-14 13:44:27 -0600
+
+
+Started GET "/assets/bootstrap/carousel.self-57eb8422043cf0a85b7a9dc6843916eb0a3e35b419c7798a5eb254b918997631.js?body=1" for 127.0.0.1 at 2015-11-14 13:44:27 -0600
+
+
+Started GET "/assets/bootstrap/dropdown.self-9314126777c6be5443e37ea7f7967d7914d72b3e60449ba50edc967446373059.js?body=1" for 127.0.0.1 at 2015-11-14 13:44:27 -0600
+
+
+Started GET "/assets/bootstrap/tab.self-122235057fbd4c6c7da377d59dc58f47b44cb1088a2e38e6ee6ce9d8ac29a26a.js?body=1" for 127.0.0.1 at 2015-11-14 13:44:27 -0600
+
+
+Started GET "/assets/bootstrap/transition.self-09ff30b1e8a93d1f7728b9855f55d9c9d8d5734c8861e0d8139994e50944572a.js?body=1" for 127.0.0.1 at 2015-11-14 13:44:27 -0600
+
+
+Started GET "/assets/bootstrap/scrollspy.self-a155b9d4b2f978905f0326c0f6635e1134fe91c6bfbfcbad079fa24a9fef2b0e.js?body=1" for 127.0.0.1 at 2015-11-14 13:44:27 -0600
+
+
+Started GET "/assets/bootstrap/modal.self-72f95ffa1071297725a9ac91989693d56d1abf23f441a47455073b0da2857a5b.js?body=1" for 127.0.0.1 at 2015-11-14 13:44:27 -0600
+
+
+Started GET "/assets/bootstrap/tooltip.self-11cf547be953f25f511cec668f6690473fd97b2f65502e4032f4030999a3f0c3.js?body=1" for 127.0.0.1 at 2015-11-14 13:44:27 -0600
+
+
+Started GET "/assets/bootstrap/popover.self-77d8e3a2499c1104ef146396a68b82469ee2bdb365199b874694698d10405e9a.js?body=1" for 127.0.0.1 at 2015-11-14 13:44:27 -0600
+
+
+Started GET "/assets/bootstrap-sprockets.self-fbfa5ad7d9aa0afe439ec4ff3883acc4cb92b62cb67c40d674320c9aa1d4642d.js?body=1" for 127.0.0.1 at 2015-11-14 13:44:27 -0600
+
+
+Started GET "/assets/pages.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 127.0.0.1 at 2015-11-14 13:44:27 -0600
+
+
+Started GET "/assets/profiles.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 127.0.0.1 at 2015-11-14 13:44:27 -0600
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for 127.0.0.1 at 2015-11-14 13:44:27 -0600
+
+
+Started GET "/pages/home" for 127.0.0.1 at 2015-11-14 13:49:20 -0600
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 102ms (Views: 101.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/pages.self-afb8298e3366f91c1d61aa3b11eb694cdc43cfa09be3d61a78cde5a16a374ea4.css?body=1" for 127.0.0.1 at 2015-11-14 13:49:21 -0600
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for 127.0.0.1 at 2015-11-14 13:49:21 -0600
+
+
+Started GET "/assets/profiles.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 127.0.0.1 at 2015-11-14 13:49:21 -0600
+
+
+Started GET "/assets/application.self-155c53dcc378f01c0b10c096419c6e1dd91826fbfcce9d530f37a1c147440f39.css?body=1" for 127.0.0.1 at 2015-11-14 13:49:21 -0600
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for 127.0.0.1 at 2015-11-14 13:49:21 -0600
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for 127.0.0.1 at 2015-11-14 13:49:21 -0600
+
+
+Started GET "/assets/bootstrap/affix.self-d2b642d8fbfc1d7041e2edefd66683ada567a980789dcd6f94fddda0b33408b5.js?body=1" for 127.0.0.1 at 2015-11-14 13:49:21 -0600
+
+
+Started GET "/assets/bootstrap/alert.self-a29e91e8cd3ddaba9bbc466901d53ec2127e9256b9b941905d525a3a716bd1a5.js?body=1" for 127.0.0.1 at 2015-11-14 13:49:21 -0600
+
+
+Started GET "/assets/bootstrap/button.self-a6cb16785434acb365ae426aef9f1fce05ed553cae7a965e4471c3da71509175.js?body=1" for 127.0.0.1 at 2015-11-14 13:49:21 -0600
+
+
+Started GET "/assets/bootstrap/collapse.self-7dc8bfbc2fbfabd2bad62c58ff8ffeaf8f20fb87c7ca6cd35f06d4dc19632587.js?body=1" for 127.0.0.1 at 2015-11-14 13:49:21 -0600
+
+
+Started GET "/assets/bootstrap/carousel.self-57eb8422043cf0a85b7a9dc6843916eb0a3e35b419c7798a5eb254b918997631.js?body=1" for 127.0.0.1 at 2015-11-14 13:49:21 -0600
+
+
+Started GET "/assets/bootstrap/dropdown.self-9314126777c6be5443e37ea7f7967d7914d72b3e60449ba50edc967446373059.js?body=1" for 127.0.0.1 at 2015-11-14 13:49:21 -0600
+
+
+Started GET "/assets/bootstrap/tab.self-122235057fbd4c6c7da377d59dc58f47b44cb1088a2e38e6ee6ce9d8ac29a26a.js?body=1" for 127.0.0.1 at 2015-11-14 13:49:21 -0600
+
+
+Started GET "/assets/bootstrap/scrollspy.self-a155b9d4b2f978905f0326c0f6635e1134fe91c6bfbfcbad079fa24a9fef2b0e.js?body=1" for 127.0.0.1 at 2015-11-14 13:49:21 -0600
+
+
+Started GET "/assets/bootstrap/modal.self-72f95ffa1071297725a9ac91989693d56d1abf23f441a47455073b0da2857a5b.js?body=1" for 127.0.0.1 at 2015-11-14 13:49:21 -0600
+
+
+Started GET "/assets/bootstrap/transition.self-09ff30b1e8a93d1f7728b9855f55d9c9d8d5734c8861e0d8139994e50944572a.js?body=1" for 127.0.0.1 at 2015-11-14 13:49:21 -0600
+
+
+Started GET "/assets/bootstrap/tooltip.self-11cf547be953f25f511cec668f6690473fd97b2f65502e4032f4030999a3f0c3.js?body=1" for 127.0.0.1 at 2015-11-14 13:49:21 -0600
+
+
+Started GET "/assets/bootstrap/popover.self-77d8e3a2499c1104ef146396a68b82469ee2bdb365199b874694698d10405e9a.js?body=1" for 127.0.0.1 at 2015-11-14 13:49:21 -0600
+
+
+Started GET "/assets/bootstrap-sprockets.self-fbfa5ad7d9aa0afe439ec4ff3883acc4cb92b62cb67c40d674320c9aa1d4642d.js?body=1" for 127.0.0.1 at 2015-11-14 13:49:21 -0600
+
+
+Started GET "/assets/pages.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 127.0.0.1 at 2015-11-14 13:49:21 -0600
+
+
+Started GET "/assets/profiles.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 127.0.0.1 at 2015-11-14 13:49:21 -0600
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for 127.0.0.1 at 2015-11-14 13:49:21 -0600
+
+
+Started GET "/pages/profiles" for 127.0.0.1 at 2015-11-14 13:49:22 -0600
+Processing by PagesController#profiles as HTML
+  Rendered pages/profiles.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 101ms (Views: 100.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/ethan.jpg" for 127.0.0.1 at 2015-11-14 13:49:22 -0600
+
+
+Started GET "/assets/longley.jpg" for 127.0.0.1 at 2015-11-14 13:49:22 -0600
+
+
+Started GET "/assets/Profile.jpg" for 127.0.0.1 at 2015-11-14 13:49:22 -0600
+
+
+Started GET "/pages/contact" for 127.0.0.1 at 2015-11-14 13:49:23 -0600
+Processing by PagesController#contact as HTML
+  Rendered pages/contact.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 138ms (Views: 137.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/about" for 127.0.0.1 at 2015-11-14 13:49:24 -0600
+Processing by PagesController#about as HTML
+  Rendered pages/about.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 122ms (Views: 121.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/home" for 127.0.0.1 at 2015-11-14 13:49:24 -0600
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 133ms (Views: 132.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/home" for 127.0.0.1 at 2015-11-14 13:50:38 -0600
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 3110ms (Views: 3109.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/pages.self-0049e83e7afea08dc9f7bf9a56bb203072b8565d7a4b36abcb264caec24f2f6a.css?body=1" for 127.0.0.1 at 2015-11-14 13:50:42 -0600
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for 127.0.0.1 at 2015-11-14 13:50:42 -0600
+
+
+Started GET "/assets/profiles.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 127.0.0.1 at 2015-11-14 13:50:42 -0600
+
+
+Started GET "/assets/application.self-155c53dcc378f01c0b10c096419c6e1dd91826fbfcce9d530f37a1c147440f39.css?body=1" for 127.0.0.1 at 2015-11-14 13:50:42 -0600
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for 127.0.0.1 at 2015-11-14 13:50:42 -0600
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for 127.0.0.1 at 2015-11-14 13:50:42 -0600
+
+
+Started GET "/assets/bootstrap/alert.self-a29e91e8cd3ddaba9bbc466901d53ec2127e9256b9b941905d525a3a716bd1a5.js?body=1" for 127.0.0.1 at 2015-11-14 13:50:42 -0600
+
+
+Started GET "/assets/bootstrap/affix.self-d2b642d8fbfc1d7041e2edefd66683ada567a980789dcd6f94fddda0b33408b5.js?body=1" for 127.0.0.1 at 2015-11-14 13:50:42 -0600
+
+
+Started GET "/assets/bootstrap/button.self-a6cb16785434acb365ae426aef9f1fce05ed553cae7a965e4471c3da71509175.js?body=1" for 127.0.0.1 at 2015-11-14 13:50:42 -0600
+
+
+Started GET "/assets/bootstrap/collapse.self-7dc8bfbc2fbfabd2bad62c58ff8ffeaf8f20fb87c7ca6cd35f06d4dc19632587.js?body=1" for 127.0.0.1 at 2015-11-14 13:50:42 -0600
+
+
+Started GET "/assets/bootstrap/carousel.self-57eb8422043cf0a85b7a9dc6843916eb0a3e35b419c7798a5eb254b918997631.js?body=1" for 127.0.0.1 at 2015-11-14 13:50:42 -0600
+
+
+Started GET "/assets/bootstrap/dropdown.self-9314126777c6be5443e37ea7f7967d7914d72b3e60449ba50edc967446373059.js?body=1" for 127.0.0.1 at 2015-11-14 13:50:42 -0600
+
+
+Started GET "/assets/bootstrap/tab.self-122235057fbd4c6c7da377d59dc58f47b44cb1088a2e38e6ee6ce9d8ac29a26a.js?body=1" for 127.0.0.1 at 2015-11-14 13:50:42 -0600
+
+
+Started GET "/assets/bootstrap/transition.self-09ff30b1e8a93d1f7728b9855f55d9c9d8d5734c8861e0d8139994e50944572a.js?body=1" for 127.0.0.1 at 2015-11-14 13:50:42 -0600
+
+
+Started GET "/assets/bootstrap/scrollspy.self-a155b9d4b2f978905f0326c0f6635e1134fe91c6bfbfcbad079fa24a9fef2b0e.js?body=1" for 127.0.0.1 at 2015-11-14 13:50:42 -0600
+
+
+Started GET "/assets/bootstrap/modal.self-72f95ffa1071297725a9ac91989693d56d1abf23f441a47455073b0da2857a5b.js?body=1" for 127.0.0.1 at 2015-11-14 13:50:42 -0600
+
+
+Started GET "/assets/bootstrap/tooltip.self-11cf547be953f25f511cec668f6690473fd97b2f65502e4032f4030999a3f0c3.js?body=1" for 127.0.0.1 at 2015-11-14 13:50:42 -0600
+
+
+Started GET "/assets/bootstrap/popover.self-77d8e3a2499c1104ef146396a68b82469ee2bdb365199b874694698d10405e9a.js?body=1" for 127.0.0.1 at 2015-11-14 13:50:42 -0600
+
+
+Started GET "/assets/bootstrap-sprockets.self-fbfa5ad7d9aa0afe439ec4ff3883acc4cb92b62cb67c40d674320c9aa1d4642d.js?body=1" for 127.0.0.1 at 2015-11-14 13:50:42 -0600
+
+
+Started GET "/assets/pages.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 127.0.0.1 at 2015-11-14 13:50:42 -0600
+
+
+Started GET "/assets/profiles.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 127.0.0.1 at 2015-11-14 13:50:42 -0600
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for 127.0.0.1 at 2015-11-14 13:50:42 -0600
+
+
+Started GET "/assets/sec.jpg" for 127.0.0.1 at 2015-11-14 13:50:42 -0600
+
+
+Started GET "/pages/profiles" for 127.0.0.1 at 2015-11-14 13:50:42 -0600
+Processing by PagesController#profiles as HTML
+  Rendered pages/profiles.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 100ms (Views: 99.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/Profile.jpg" for 127.0.0.1 at 2015-11-14 13:50:43 -0600
+
+
+Started GET "/assets/ethan.jpg" for 127.0.0.1 at 2015-11-14 13:50:43 -0600
+
+
+Started GET "/assets/longley.jpg" for 127.0.0.1 at 2015-11-14 13:50:43 -0600
+
+
+Started GET "/pages/home" for 127.0.0.1 at 2015-11-14 13:50:43 -0600
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 138ms (Views: 137.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/home" for 127.0.0.1 at 2015-11-14 13:53:16 -0600
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 3013ms (Views: 3012.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/profiles.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 127.0.0.1 at 2015-11-14 13:53:19 -0600
+
+
+Started GET "/assets/application.self-155c53dcc378f01c0b10c096419c6e1dd91826fbfcce9d530f37a1c147440f39.css?body=1" for 127.0.0.1 at 2015-11-14 13:53:19 -0600
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for 127.0.0.1 at 2015-11-14 13:53:19 -0600
+
+
+Started GET "/assets/pages.self-b99313531d7eb176f61825604afede506e69b7a13d2f269bd3efcec45a076335.css?body=1" for 127.0.0.1 at 2015-11-14 13:53:19 -0600
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for 127.0.0.1 at 2015-11-14 13:53:19 -0600
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for 127.0.0.1 at 2015-11-14 13:53:19 -0600
+
+
+Started GET "/assets/bootstrap/alert.self-a29e91e8cd3ddaba9bbc466901d53ec2127e9256b9b941905d525a3a716bd1a5.js?body=1" for 127.0.0.1 at 2015-11-14 13:53:19 -0600
+
+
+Started GET "/assets/bootstrap/affix.self-d2b642d8fbfc1d7041e2edefd66683ada567a980789dcd6f94fddda0b33408b5.js?body=1" for 127.0.0.1 at 2015-11-14 13:53:19 -0600
+
+
+Started GET "/assets/bootstrap/button.self-a6cb16785434acb365ae426aef9f1fce05ed553cae7a965e4471c3da71509175.js?body=1" for 127.0.0.1 at 2015-11-14 13:53:19 -0600
+
+
+Started GET "/assets/bootstrap/carousel.self-57eb8422043cf0a85b7a9dc6843916eb0a3e35b419c7798a5eb254b918997631.js?body=1" for 127.0.0.1 at 2015-11-14 13:53:19 -0600
+
+
+Started GET "/assets/bootstrap/collapse.self-7dc8bfbc2fbfabd2bad62c58ff8ffeaf8f20fb87c7ca6cd35f06d4dc19632587.js?body=1" for 127.0.0.1 at 2015-11-14 13:53:19 -0600
+
+
+Started GET "/assets/bootstrap/dropdown.self-9314126777c6be5443e37ea7f7967d7914d72b3e60449ba50edc967446373059.js?body=1" for 127.0.0.1 at 2015-11-14 13:53:19 -0600
+
+
+Started GET "/assets/bootstrap/transition.self-09ff30b1e8a93d1f7728b9855f55d9c9d8d5734c8861e0d8139994e50944572a.js?body=1" for 127.0.0.1 at 2015-11-14 13:53:19 -0600
+
+
+Started GET "/assets/bootstrap/tab.self-122235057fbd4c6c7da377d59dc58f47b44cb1088a2e38e6ee6ce9d8ac29a26a.js?body=1" for 127.0.0.1 at 2015-11-14 13:53:19 -0600
+
+
+Started GET "/assets/bootstrap/scrollspy.self-a155b9d4b2f978905f0326c0f6635e1134fe91c6bfbfcbad079fa24a9fef2b0e.js?body=1" for 127.0.0.1 at 2015-11-14 13:53:19 -0600
+
+
+Started GET "/assets/bootstrap/tooltip.self-11cf547be953f25f511cec668f6690473fd97b2f65502e4032f4030999a3f0c3.js?body=1" for 127.0.0.1 at 2015-11-14 13:53:19 -0600
+
+
+Started GET "/assets/bootstrap/popover.self-77d8e3a2499c1104ef146396a68b82469ee2bdb365199b874694698d10405e9a.js?body=1" for 127.0.0.1 at 2015-11-14 13:53:19 -0600
+
+
+Started GET "/assets/bootstrap/modal.self-72f95ffa1071297725a9ac91989693d56d1abf23f441a47455073b0da2857a5b.js?body=1" for 127.0.0.1 at 2015-11-14 13:53:19 -0600
+
+
+Started GET "/assets/bootstrap-sprockets.self-fbfa5ad7d9aa0afe439ec4ff3883acc4cb92b62cb67c40d674320c9aa1d4642d.js?body=1" for 127.0.0.1 at 2015-11-14 13:53:19 -0600
+
+
+Started GET "/assets/pages.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 127.0.0.1 at 2015-11-14 13:53:19 -0600
+
+
+Started GET "/assets/profiles.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 127.0.0.1 at 2015-11-14 13:53:19 -0600
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for 127.0.0.1 at 2015-11-14 13:53:19 -0600
+
+
+Started GET "/assets/sec.jpg" for 127.0.0.1 at 2015-11-14 13:53:19 -0600
+
+
+Started GET "/pages/profiles" for 127.0.0.1 at 2015-11-14 13:57:07 -0600
+Processing by PagesController#profiles as HTML
+  Rendered pages/profiles.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 114ms (Views: 113.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/Profile.jpg" for 127.0.0.1 at 2015-11-14 13:57:08 -0600
+
+
+Started GET "/assets/ethan.jpg" for 127.0.0.1 at 2015-11-14 13:57:08 -0600
+
+
+Started GET "/assets/longley.jpg" for 127.0.0.1 at 2015-11-14 13:57:08 -0600
+
+
+Started GET "/pages/home" for 127.0.0.1 at 2015-11-14 13:57:10 -0600
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 126ms (Views: 125.6ms | ActiveRecord: 0.0ms)

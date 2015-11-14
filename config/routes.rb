@@ -1,5 +1,7 @@
 Rails.application.routes.draw do
 
+  get 'pages/profiles'
+
   # set the index page / root url
   root 'pages#home'
 
@@ -8,6 +10,8 @@ Rails.application.routes.draw do
   get 'pages/home'
 
   get 'pages/contact'
+
+  get 'pages/profiles'
 
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".
