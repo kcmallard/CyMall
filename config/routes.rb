@@ -1,7 +1,5 @@
 Rails.application.routes.draw do
 
-  get 'pages/profiles'
-
   # set the index page / root url
   root 'pages#home'
 
