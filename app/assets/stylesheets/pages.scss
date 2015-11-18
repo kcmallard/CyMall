@@ -11,9 +11,19 @@ p {
 }
 
 div.pics {
-	text-align: left;
+	-webkit-column-gap: 40px;
+    -moz-column-gap: 40px;
+    column-gap: 40px;
+    column-width: 100px;
+    column-count: 3;
 }
 
-div.boxed {
-	display: inline;
+div.kyle {
+	text-align: center;
+}
+div.ethan {
+	text-align: center;
+}
+div.matthew {
+	text-align: center;
 }
