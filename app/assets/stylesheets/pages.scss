@@ -27,3 +27,12 @@ div.ethan {
 div.matthew {
 	text-align: center;
 }
+
+div.services {
+	-webkit-column-gap: 40px;
+    -moz-column-gap: 40px;
+    column-gap: 40px;
+    column-width: 100px;
+    column-count: 5;
+    text-align: center;
+}
