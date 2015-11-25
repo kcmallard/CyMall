@@ -3,9 +3,21 @@ Rails.application.routes.draw do
   # set the index page / root url
   root 'pages#home'
 
+  get 'pages/home'
+
   get 'pages/about'
 
-  get 'pages/home'
+  get 'pages/consult'
+
+  get 'pages/cybaud'
+
+  get 'pages/datarec'
+
+  get 'pages/faq'
+
+  get 'pages/itsupp'
+
+  get 'pages/webdev'
 
   get 'pages/contact'
 
