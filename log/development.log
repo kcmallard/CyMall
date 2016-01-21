@@ -49981,3 +49981,849 @@ Completed 200 OK in 228ms (Views: 227.3ms | ActiveRecord: 0.0ms)
 
 
 Started GET "/assets/duck.png" for 127.0.0.1 at 2015-12-22 05:48:14 -0600
+
+
+Started GET "/pages/home" for 127.0.0.1 at 2015-12-22 10:20:39 -0600
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (1.5ms)
+Completed 200 OK in 378ms (Views: 362.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/duck.png" for 127.0.0.1 at 2015-12-22 10:20:40 -0600
+
+
+Started GET "/pages/services" for 127.0.0.1 at 2015-12-22 10:20:44 -0600
+Processing by PagesController#services as HTML
+  Rendered pages/services.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 93ms (Views: 91.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/lock.png" for 127.0.0.1 at 2015-12-22 10:20:44 -0600
+
+
+Started GET "/assets/nerd.png" for 127.0.0.1 at 2015-12-22 10:20:44 -0600
+
+
+Started GET "/assets/bright.png" for 127.0.0.1 at 2015-12-22 10:20:44 -0600
+
+
+Started GET "/pages/about" for 127.0.0.1 at 2015-12-22 10:20:46 -0600
+Processing by PagesController#about as HTML
+  Rendered pages/about.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 155ms (Views: 153.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/Profile.jpg" for 127.0.0.1 at 2015-12-22 10:20:46 -0600
+
+
+Started GET "/assets/ethan.jpg" for 127.0.0.1 at 2015-12-22 10:20:46 -0600
+
+
+Started GET "/assets/longley.jpg" for 127.0.0.1 at 2015-12-22 10:20:46 -0600
+
+
+Started GET "/pages/contact" for 127.0.0.1 at 2015-12-22 10:20:47 -0600
+Processing by PagesController#contact as HTML
+  Rendered pages/contact.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 92ms (Views: 91.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/contact" for 127.0.0.1 at 2015-12-22 10:20:49 -0600
+Processing by PagesController#contact as HTML
+  Rendered pages/contact.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 113ms (Views: 112.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/home" for 127.0.0.1 at 2015-12-22 10:20:50 -0600
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 120ms (Views: 118.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/services" for 127.0.0.1 at 2015-12-22 10:21:50 -0600
+Processing by PagesController#services as HTML
+  Rendered pages/services.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 101ms (Views: 100.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/services" for 127.0.0.1 at 2015-12-22 10:21:53 -0600
+Processing by PagesController#services as HTML
+  Rendered pages/services.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 122ms (Views: 121.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/about" for 127.0.0.1 at 2015-12-22 10:21:54 -0600
+Processing by PagesController#about as HTML
+  Rendered pages/about.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 110ms (Views: 109.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/home" for 127.0.0.1 at 2015-12-22 10:21:56 -0600
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 89ms (Views: 88.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/home" for 127.0.0.1 at 2015-12-22 17:39:03 -0600
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (1.9ms)
+Completed 200 OK in 421ms (Views: 408.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/pages.self-fbea4b177ca96f258a662f6f8bfb7a7d9e58d92c53af3a07374260175cc54feb.css?body=1" for 127.0.0.1 at 2015-12-22 17:39:05 -0600
+
+
+Started GET "/assets/application.self-155c53dcc378f01c0b10c096419c6e1dd91826fbfcce9d530f37a1c147440f39.css?body=1" for 127.0.0.1 at 2015-12-22 17:39:05 -0600
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for 127.0.0.1 at 2015-12-22 17:39:05 -0600
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for 127.0.0.1 at 2015-12-22 17:39:05 -0600
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for 127.0.0.1 at 2015-12-22 17:39:05 -0600
+
+
+Started GET "/assets/bootstrap/affix.self-d2b642d8fbfc1d7041e2edefd66683ada567a980789dcd6f94fddda0b33408b5.js?body=1" for 127.0.0.1 at 2015-12-22 17:39:05 -0600
+
+
+Started GET "/assets/bootstrap/button.self-a6cb16785434acb365ae426aef9f1fce05ed553cae7a965e4471c3da71509175.js?body=1" for 127.0.0.1 at 2015-12-22 17:39:05 -0600
+
+
+Started GET "/assets/bootstrap/alert.self-a29e91e8cd3ddaba9bbc466901d53ec2127e9256b9b941905d525a3a716bd1a5.js?body=1" for 127.0.0.1 at 2015-12-22 17:39:05 -0600
+
+
+Started GET "/assets/bootstrap/carousel.self-57eb8422043cf0a85b7a9dc6843916eb0a3e35b419c7798a5eb254b918997631.js?body=1" for 127.0.0.1 at 2015-12-22 17:39:05 -0600
+
+
+Started GET "/assets/bootstrap/collapse.self-7dc8bfbc2fbfabd2bad62c58ff8ffeaf8f20fb87c7ca6cd35f06d4dc19632587.js?body=1" for 127.0.0.1 at 2015-12-22 17:39:05 -0600
+
+
+Started GET "/assets/bootstrap/dropdown.self-9314126777c6be5443e37ea7f7967d7914d72b3e60449ba50edc967446373059.js?body=1" for 127.0.0.1 at 2015-12-22 17:39:05 -0600
+
+
+Started GET "/assets/bootstrap/tab.self-122235057fbd4c6c7da377d59dc58f47b44cb1088a2e38e6ee6ce9d8ac29a26a.js?body=1" for 127.0.0.1 at 2015-12-22 17:39:05 -0600
+
+
+Started GET "/assets/bootstrap/transition.self-09ff30b1e8a93d1f7728b9855f55d9c9d8d5734c8861e0d8139994e50944572a.js?body=1" for 127.0.0.1 at 2015-12-22 17:39:05 -0600
+
+
+Started GET "/assets/bootstrap/scrollspy.self-a155b9d4b2f978905f0326c0f6635e1134fe91c6bfbfcbad079fa24a9fef2b0e.js?body=1" for 127.0.0.1 at 2015-12-22 17:39:05 -0600
+
+
+Started GET "/assets/bootstrap/modal.self-72f95ffa1071297725a9ac91989693d56d1abf23f441a47455073b0da2857a5b.js?body=1" for 127.0.0.1 at 2015-12-22 17:39:05 -0600
+
+
+Started GET "/assets/bootstrap/tooltip.self-11cf547be953f25f511cec668f6690473fd97b2f65502e4032f4030999a3f0c3.js?body=1" for 127.0.0.1 at 2015-12-22 17:39:05 -0600
+
+
+Started GET "/assets/bootstrap/popover.self-77d8e3a2499c1104ef146396a68b82469ee2bdb365199b874694698d10405e9a.js?body=1" for 127.0.0.1 at 2015-12-22 17:39:05 -0600
+
+
+Started GET "/assets/bootstrap-sprockets.self-fbfa5ad7d9aa0afe439ec4ff3883acc4cb92b62cb67c40d674320c9aa1d4642d.js?body=1" for 127.0.0.1 at 2015-12-22 17:39:05 -0600
+
+
+Started GET "/assets/pages.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 127.0.0.1 at 2015-12-22 17:39:05 -0600
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for 127.0.0.1 at 2015-12-22 17:39:05 -0600
+
+
+Started GET "/assets/duck.png" for 127.0.0.1 at 2015-12-22 17:39:05 -0600
+
+
+Started GET "/pages/services" for 127.0.0.1 at 2015-12-22 17:39:06 -0600
+Processing by PagesController#services as HTML
+  Rendered pages/services.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 94ms (Views: 93.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/lock.png" for 127.0.0.1 at 2015-12-22 17:39:06 -0600
+
+
+Started GET "/assets/nerd.png" for 127.0.0.1 at 2015-12-22 17:39:06 -0600
+
+
+Started GET "/assets/bright.png" for 127.0.0.1 at 2015-12-22 17:39:06 -0600
+
+
+Started GET "/pages/about" for 127.0.0.1 at 2015-12-22 17:39:09 -0600
+Processing by PagesController#about as HTML
+  Rendered pages/about.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 106ms (Views: 105.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/Profile.jpg" for 127.0.0.1 at 2015-12-22 17:39:09 -0600
+
+
+Started GET "/assets/ethan.jpg" for 127.0.0.1 at 2015-12-22 17:39:09 -0600
+
+
+Started GET "/assets/longley.jpg" for 127.0.0.1 at 2015-12-22 17:39:09 -0600
+
+
+Started GET "/pages/contact" for 127.0.0.1 at 2015-12-22 17:39:10 -0600
+Processing by PagesController#contact as HTML
+  Rendered pages/contact.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 115ms (Views: 113.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/faq" for 127.0.0.1 at 2015-12-22 17:39:11 -0600
+Processing by PagesController#faq as HTML
+  Rendered pages/faq.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 129ms (Views: 128.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/home" for 127.0.0.1 at 2015-12-22 17:39:12 -0600
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 109ms (Views: 108.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/services" for 127.0.0.1 at 2015-12-22 17:41:25 -0600
+Processing by PagesController#services as HTML
+  Rendered pages/services.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 113ms (Views: 112.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/about" for 127.0.0.1 at 2015-12-22 17:41:36 -0600
+Processing by PagesController#about as HTML
+  Rendered pages/about.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 101ms (Views: 100.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/contact" for 127.0.0.1 at 2015-12-22 17:41:43 -0600
+Processing by PagesController#contact as HTML
+  Rendered pages/contact.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 113ms (Views: 112.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/faq" for 127.0.0.1 at 2015-12-22 17:41:46 -0600
+Processing by PagesController#faq as HTML
+  Rendered pages/faq.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 101ms (Views: 100.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/home" for 127.0.0.1 at 2015-12-22 17:41:50 -0600
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 112ms (Views: 111.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/home" for 127.0.0.1 at 2015-12-25 22:22:09 -0600
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (2.5ms)
+Completed 200 OK in 1118ms (Views: 1093.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-155c53dcc378f01c0b10c096419c6e1dd91826fbfcce9d530f37a1c147440f39.css?body=1" for 127.0.0.1 at 2015-12-25 22:22:11 -0600
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for 127.0.0.1 at 2015-12-25 22:22:11 -0600
+
+
+Started GET "/assets/pages.self-fbea4b177ca96f258a662f6f8bfb7a7d9e58d92c53af3a07374260175cc54feb.css?body=1" for 127.0.0.1 at 2015-12-25 22:22:11 -0600
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for 127.0.0.1 at 2015-12-25 22:22:11 -0600
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for 127.0.0.1 at 2015-12-25 22:22:11 -0600
+
+
+Started GET "/assets/bootstrap/affix.self-d2b642d8fbfc1d7041e2edefd66683ada567a980789dcd6f94fddda0b33408b5.js?body=1" for 127.0.0.1 at 2015-12-25 22:22:11 -0600
+
+
+Started GET "/assets/bootstrap/alert.self-a29e91e8cd3ddaba9bbc466901d53ec2127e9256b9b941905d525a3a716bd1a5.js?body=1" for 127.0.0.1 at 2015-12-25 22:22:11 -0600
+
+
+Started GET "/assets/bootstrap/button.self-a6cb16785434acb365ae426aef9f1fce05ed553cae7a965e4471c3da71509175.js?body=1" for 127.0.0.1 at 2015-12-25 22:22:11 -0600
+
+
+Started GET "/assets/bootstrap/carousel.self-57eb8422043cf0a85b7a9dc6843916eb0a3e35b419c7798a5eb254b918997631.js?body=1" for 127.0.0.1 at 2015-12-25 22:22:11 -0600
+
+
+Started GET "/assets/bootstrap/collapse.self-7dc8bfbc2fbfabd2bad62c58ff8ffeaf8f20fb87c7ca6cd35f06d4dc19632587.js?body=1" for 127.0.0.1 at 2015-12-25 22:22:11 -0600
+
+
+Started GET "/assets/bootstrap/dropdown.self-9314126777c6be5443e37ea7f7967d7914d72b3e60449ba50edc967446373059.js?body=1" for 127.0.0.1 at 2015-12-25 22:22:11 -0600
+
+
+Started GET "/assets/bootstrap/tab.self-122235057fbd4c6c7da377d59dc58f47b44cb1088a2e38e6ee6ce9d8ac29a26a.js?body=1" for 127.0.0.1 at 2015-12-25 22:22:11 -0600
+
+
+Started GET "/assets/bootstrap/transition.self-09ff30b1e8a93d1f7728b9855f55d9c9d8d5734c8861e0d8139994e50944572a.js?body=1" for 127.0.0.1 at 2015-12-25 22:22:11 -0600
+
+
+Started GET "/assets/bootstrap/scrollspy.self-a155b9d4b2f978905f0326c0f6635e1134fe91c6bfbfcbad079fa24a9fef2b0e.js?body=1" for 127.0.0.1 at 2015-12-25 22:22:11 -0600
+
+
+Started GET "/assets/bootstrap/tooltip.self-11cf547be953f25f511cec668f6690473fd97b2f65502e4032f4030999a3f0c3.js?body=1" for 127.0.0.1 at 2015-12-25 22:22:11 -0600
+
+
+Started GET "/assets/bootstrap-sprockets.self-fbfa5ad7d9aa0afe439ec4ff3883acc4cb92b62cb67c40d674320c9aa1d4642d.js?body=1" for 127.0.0.1 at 2015-12-25 22:22:11 -0600
+
+
+Started GET "/assets/bootstrap/popover.self-77d8e3a2499c1104ef146396a68b82469ee2bdb365199b874694698d10405e9a.js?body=1" for 127.0.0.1 at 2015-12-25 22:22:11 -0600
+
+
+Started GET "/assets/bootstrap/modal.self-72f95ffa1071297725a9ac91989693d56d1abf23f441a47455073b0da2857a5b.js?body=1" for 127.0.0.1 at 2015-12-25 22:22:11 -0600
+
+
+Started GET "/assets/pages.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 127.0.0.1 at 2015-12-25 22:22:11 -0600
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for 127.0.0.1 at 2015-12-25 22:22:11 -0600
+
+
+Started GET "/assets/duck.png" for 127.0.0.1 at 2015-12-25 22:22:11 -0600
+
+
+Started GET "/pages/services" for 127.0.0.1 at 2015-12-25 22:22:13 -0600
+Processing by PagesController#services as HTML
+  Rendered pages/services.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 92ms (Views: 91.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/lock.png" for 127.0.0.1 at 2015-12-25 22:22:13 -0600
+
+
+Started GET "/assets/nerd.png" for 127.0.0.1 at 2015-12-25 22:22:13 -0600
+
+
+Started GET "/assets/bright.png" for 127.0.0.1 at 2015-12-25 22:22:13 -0600
+
+
+Started GET "/pages/about" for 127.0.0.1 at 2015-12-25 22:22:14 -0600
+Processing by PagesController#about as HTML
+  Rendered pages/about.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 111ms (Views: 110.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/Profile.jpg" for 127.0.0.1 at 2015-12-25 22:22:14 -0600
+
+
+Started GET "/assets/ethan.jpg" for 127.0.0.1 at 2015-12-25 22:22:14 -0600
+
+
+Started GET "/assets/longley.jpg" for 127.0.0.1 at 2015-12-25 22:22:14 -0600
+
+
+Started GET "/pages/contact" for 127.0.0.1 at 2015-12-25 22:22:14 -0600
+Processing by PagesController#contact as HTML
+  Rendered pages/contact.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 113ms (Views: 112.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/faq" for 127.0.0.1 at 2015-12-25 22:22:15 -0600
+Processing by PagesController#faq as HTML
+  Rendered pages/faq.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 115ms (Views: 114.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/home" for 127.0.0.1 at 2015-12-25 22:22:16 -0600
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 106ms (Views: 104.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/home" for 127.0.0.1 at 2015-12-25 22:58:47 -0600
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 203ms (Views: 202.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/duck.png" for 127.0.0.1 at 2015-12-25 22:58:47 -0600
+
+
+Started GET "/pages/services" for 127.0.0.1 at 2015-12-25 22:58:49 -0600
+Processing by PagesController#services as HTML
+  Rendered pages/services.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 127ms (Views: 125.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/lock.png" for 127.0.0.1 at 2015-12-25 22:58:49 -0600
+
+
+Started GET "/assets/nerd.png" for 127.0.0.1 at 2015-12-25 22:58:49 -0600
+
+
+Started GET "/assets/bright.png" for 127.0.0.1 at 2015-12-25 22:58:49 -0600
+
+
+Started GET "/pages/about" for 127.0.0.1 at 2015-12-25 22:58:51 -0600
+Processing by PagesController#about as HTML
+  Rendered pages/about.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 99ms (Views: 98.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/Profile.jpg" for 127.0.0.1 at 2015-12-25 22:58:51 -0600
+
+
+Started GET "/assets/ethan.jpg" for 127.0.0.1 at 2015-12-25 22:58:51 -0600
+
+
+Started GET "/assets/longley.jpg" for 127.0.0.1 at 2015-12-25 22:58:51 -0600
+
+
+Started GET "/pages/contact" for 127.0.0.1 at 2015-12-25 22:58:53 -0600
+Processing by PagesController#contact as HTML
+  Rendered pages/contact.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 112ms (Views: 111.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/faq" for 127.0.0.1 at 2015-12-25 22:58:53 -0600
+Processing by PagesController#faq as HTML
+  Rendered pages/faq.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 94ms (Views: 93.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/about" for 127.0.0.1 at 2015-12-25 22:58:54 -0600
+Processing by PagesController#about as HTML
+  Rendered pages/about.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 110ms (Views: 109.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/services" for 127.0.0.1 at 2015-12-25 22:58:55 -0600
+Processing by PagesController#services as HTML
+  Rendered pages/services.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 94ms (Views: 93.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/home" for 127.0.0.1 at 2015-12-25 22:58:56 -0600
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 111ms (Views: 110.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/home" for 127.0.0.1 at 2015-12-31 17:48:01 -0600
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (22.5ms)
+Completed 200 OK in 1540ms (Views: 1514.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/duck.png" for 127.0.0.1 at 2015-12-31 17:48:03 -0600
+
+
+Started GET "/pages/services" for 127.0.0.1 at 2015-12-31 17:48:05 -0600
+Processing by PagesController#services as HTML
+  Rendered pages/services.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 120ms (Views: 119.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/lock.png" for 127.0.0.1 at 2015-12-31 17:48:05 -0600
+
+
+Started GET "/assets/nerd.png" for 127.0.0.1 at 2015-12-31 17:48:05 -0600
+
+
+Started GET "/assets/bright.png" for 127.0.0.1 at 2015-12-31 17:48:05 -0600
+
+
+Started GET "/pages/about" for 127.0.0.1 at 2015-12-31 17:48:07 -0600
+Processing by PagesController#about as HTML
+  Rendered pages/about.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 177ms (Views: 176.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/Profile.jpg" for 127.0.0.1 at 2015-12-31 17:48:07 -0600
+
+
+Started GET "/assets/ethan.jpg" for 127.0.0.1 at 2015-12-31 17:48:07 -0600
+
+
+Started GET "/assets/longley.jpg" for 127.0.0.1 at 2015-12-31 17:48:07 -0600
+
+
+Started GET "/pages/contact" for 127.0.0.1 at 2015-12-31 17:48:08 -0600
+Processing by PagesController#contact as HTML
+  Rendered pages/contact.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 103ms (Views: 101.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/faq" for 127.0.0.1 at 2015-12-31 17:48:09 -0600
+Processing by PagesController#faq as HTML
+  Rendered pages/faq.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 148ms (Views: 147.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/home" for 127.0.0.1 at 2015-12-31 17:48:10 -0600
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 129ms (Views: 128.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/services" for 127.0.0.1 at 2015-12-31 17:48:13 -0600
+Processing by PagesController#services as HTML
+  Rendered pages/services.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 126ms (Views: 124.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/about" for 127.0.0.1 at 2015-12-31 17:48:14 -0600
+Processing by PagesController#about as HTML
+  Rendered pages/about.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 110ms (Views: 109.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/services" for 127.0.0.1 at 2015-12-31 17:48:15 -0600
+Processing by PagesController#services as HTML
+  Rendered pages/services.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 113ms (Views: 112.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/home" for 127.0.0.1 at 2015-12-31 17:48:18 -0600
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 127ms (Views: 126.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/services" for 127.0.0.1 at 2015-12-31 17:48:19 -0600
+Processing by PagesController#services as HTML
+  Rendered pages/services.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 113ms (Views: 112.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/home" for 127.0.0.1 at 2015-12-31 17:48:20 -0600
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 109ms (Views: 108.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/home" for 127.0.0.1 at 2015-12-31 17:57:22 -0600
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (1.2ms)
+Completed 200 OK in 363ms (Views: 349.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/home" for 127.0.0.1 at 2015-12-31 17:57:23 -0600
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 104ms (Views: 103.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/duck.png" for 127.0.0.1 at 2015-12-31 17:57:23 -0600
+
+
+Started GET "/pages/services" for 127.0.0.1 at 2015-12-31 17:57:25 -0600
+Processing by PagesController#services as HTML
+  Rendered pages/services.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 178ms (Views: 177.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/lock.png" for 127.0.0.1 at 2015-12-31 17:57:25 -0600
+
+
+Started GET "/assets/nerd.png" for 127.0.0.1 at 2015-12-31 17:57:25 -0600
+
+
+Started GET "/assets/bright.png" for 127.0.0.1 at 2015-12-31 17:57:25 -0600
+
+
+Started GET "/pages/about" for 127.0.0.1 at 2015-12-31 17:57:28 -0600
+Processing by PagesController#about as HTML
+  Rendered pages/about.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 107ms (Views: 106.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/Profile.jpg" for 127.0.0.1 at 2015-12-31 17:57:28 -0600
+
+
+Started GET "/assets/ethan.jpg" for 127.0.0.1 at 2015-12-31 17:57:28 -0600
+
+
+Started GET "/assets/longley.jpg" for 127.0.0.1 at 2015-12-31 17:57:28 -0600
+
+
+Started GET "/pages/home" for 127.0.0.1 at 2015-12-31 17:57:29 -0600
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 117ms (Views: 116.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/home" for 127.0.0.1 at 2016-01-02 12:17:59 -0600
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (1.9ms)
+Completed 200 OK in 1396ms (Views: 1371.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/pages.self-fbea4b177ca96f258a662f6f8bfb7a7d9e58d92c53af3a07374260175cc54feb.css?body=1" for 127.0.0.1 at 2016-01-02 12:18:01 -0600
+
+
+Started GET "/assets/application.self-155c53dcc378f01c0b10c096419c6e1dd91826fbfcce9d530f37a1c147440f39.css?body=1" for 127.0.0.1 at 2016-01-02 12:18:01 -0600
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for 127.0.0.1 at 2016-01-02 12:18:01 -0600
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for 127.0.0.1 at 2016-01-02 12:18:01 -0600
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for 127.0.0.1 at 2016-01-02 12:18:01 -0600
+
+
+Started GET "/assets/bootstrap/affix.self-d2b642d8fbfc1d7041e2edefd66683ada567a980789dcd6f94fddda0b33408b5.js?body=1" for 127.0.0.1 at 2016-01-02 12:18:01 -0600
+
+
+Started GET "/assets/bootstrap/alert.self-a29e91e8cd3ddaba9bbc466901d53ec2127e9256b9b941905d525a3a716bd1a5.js?body=1" for 127.0.0.1 at 2016-01-02 12:18:01 -0600
+
+
+Started GET "/assets/bootstrap/button.self-a6cb16785434acb365ae426aef9f1fce05ed553cae7a965e4471c3da71509175.js?body=1" for 127.0.0.1 at 2016-01-02 12:18:01 -0600
+
+
+Started GET "/assets/bootstrap/carousel.self-57eb8422043cf0a85b7a9dc6843916eb0a3e35b419c7798a5eb254b918997631.js?body=1" for 127.0.0.1 at 2016-01-02 12:18:01 -0600
+
+
+Started GET "/assets/bootstrap/collapse.self-7dc8bfbc2fbfabd2bad62c58ff8ffeaf8f20fb87c7ca6cd35f06d4dc19632587.js?body=1" for 127.0.0.1 at 2016-01-02 12:18:01 -0600
+
+
+Started GET "/assets/bootstrap/dropdown.self-9314126777c6be5443e37ea7f7967d7914d72b3e60449ba50edc967446373059.js?body=1" for 127.0.0.1 at 2016-01-02 12:18:01 -0600
+
+
+Started GET "/assets/bootstrap/tab.self-122235057fbd4c6c7da377d59dc58f47b44cb1088a2e38e6ee6ce9d8ac29a26a.js?body=1" for 127.0.0.1 at 2016-01-02 12:18:01 -0600
+
+
+Started GET "/assets/bootstrap/transition.self-09ff30b1e8a93d1f7728b9855f55d9c9d8d5734c8861e0d8139994e50944572a.js?body=1" for 127.0.0.1 at 2016-01-02 12:18:01 -0600
+
+
+Started GET "/assets/bootstrap/scrollspy.self-a155b9d4b2f978905f0326c0f6635e1134fe91c6bfbfcbad079fa24a9fef2b0e.js?body=1" for 127.0.0.1 at 2016-01-02 12:18:01 -0600
+
+
+Started GET "/assets/bootstrap/modal.self-72f95ffa1071297725a9ac91989693d56d1abf23f441a47455073b0da2857a5b.js?body=1" for 127.0.0.1 at 2016-01-02 12:18:01 -0600
+
+
+Started GET "/assets/bootstrap/tooltip.self-11cf547be953f25f511cec668f6690473fd97b2f65502e4032f4030999a3f0c3.js?body=1" for 127.0.0.1 at 2016-01-02 12:18:01 -0600
+
+
+Started GET "/assets/bootstrap/popover.self-77d8e3a2499c1104ef146396a68b82469ee2bdb365199b874694698d10405e9a.js?body=1" for 127.0.0.1 at 2016-01-02 12:18:01 -0600
+
+
+Started GET "/assets/bootstrap-sprockets.self-fbfa5ad7d9aa0afe439ec4ff3883acc4cb92b62cb67c40d674320c9aa1d4642d.js?body=1" for 127.0.0.1 at 2016-01-02 12:18:01 -0600
+
+
+Started GET "/assets/pages.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 127.0.0.1 at 2016-01-02 12:18:01 -0600
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for 127.0.0.1 at 2016-01-02 12:18:01 -0600
+
+
+Started GET "/assets/duck.png" for 127.0.0.1 at 2016-01-02 12:18:01 -0600
+
+
+Started GET "/pages/services" for 127.0.0.1 at 2016-01-02 12:18:03 -0600
+Processing by PagesController#services as HTML
+  Rendered pages/services.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 92ms (Views: 91.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/lock.png" for 127.0.0.1 at 2016-01-02 12:18:04 -0600
+
+
+Started GET "/assets/nerd.png" for 127.0.0.1 at 2016-01-02 12:18:04 -0600
+
+
+Started GET "/assets/bright.png" for 127.0.0.1 at 2016-01-02 12:18:04 -0600
+
+
+Started GET "/pages/about" for 127.0.0.1 at 2016-01-02 12:18:05 -0600
+Processing by PagesController#about as HTML
+  Rendered pages/about.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 122ms (Views: 121.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/Profile.jpg" for 127.0.0.1 at 2016-01-02 12:18:05 -0600
+
+
+Started GET "/assets/ethan.jpg" for 127.0.0.1 at 2016-01-02 12:18:05 -0600
+
+
+Started GET "/assets/longley.jpg" for 127.0.0.1 at 2016-01-02 12:18:05 -0600
+
+
+Started GET "/pages/contact" for 127.0.0.1 at 2016-01-02 12:18:06 -0600
+Processing by PagesController#contact as HTML
+  Rendered pages/contact.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 105ms (Views: 104.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/faq" for 127.0.0.1 at 2016-01-02 12:18:07 -0600
+Processing by PagesController#faq as HTML
+  Rendered pages/faq.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 113ms (Views: 112.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/contact" for 127.0.0.1 at 2016-01-02 12:18:09 -0600
+Processing by PagesController#contact as HTML
+  Rendered pages/contact.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 103ms (Views: 102.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/home" for 127.0.0.1 at 2016-01-02 12:18:10 -0600
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 109ms (Views: 108.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2016-01-20 20:12:57 -0600
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (1.9ms)
+Completed 200 OK in 3424ms (Views: 3410.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-155c53dcc378f01c0b10c096419c6e1dd91826fbfcce9d530f37a1c147440f39.css?body=1" for 127.0.0.1 at 2016-01-20 20:13:02 -0600
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for 127.0.0.1 at 2016-01-20 20:13:02 -0600
+
+
+Started GET "/assets/pages.self-fbea4b177ca96f258a662f6f8bfb7a7d9e58d92c53af3a07374260175cc54feb.css?body=1" for 127.0.0.1 at 2016-01-20 20:13:02 -0600
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for 127.0.0.1 at 2016-01-20 20:13:02 -0600
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for 127.0.0.1 at 2016-01-20 20:13:02 -0600
+
+
+Started GET "/assets/bootstrap/affix.self-d2b642d8fbfc1d7041e2edefd66683ada567a980789dcd6f94fddda0b33408b5.js?body=1" for 127.0.0.1 at 2016-01-20 20:13:02 -0600
+
+
+Started GET "/assets/bootstrap/button.self-a6cb16785434acb365ae426aef9f1fce05ed553cae7a965e4471c3da71509175.js?body=1" for 127.0.0.1 at 2016-01-20 20:13:02 -0600
+
+
+Started GET "/assets/bootstrap/collapse.self-7dc8bfbc2fbfabd2bad62c58ff8ffeaf8f20fb87c7ca6cd35f06d4dc19632587.js?body=1" for 127.0.0.1 at 2016-01-20 20:13:02 -0600
+
+
+Started GET "/assets/bootstrap/carousel.self-57eb8422043cf0a85b7a9dc6843916eb0a3e35b419c7798a5eb254b918997631.js?body=1" for 127.0.0.1 at 2016-01-20 20:13:02 -0600
+
+
+Started GET "/assets/bootstrap/dropdown.self-9314126777c6be5443e37ea7f7967d7914d72b3e60449ba50edc967446373059.js?body=1" for 127.0.0.1 at 2016-01-20 20:13:02 -0600
+
+
+Started GET "/assets/bootstrap/alert.self-a29e91e8cd3ddaba9bbc466901d53ec2127e9256b9b941905d525a3a716bd1a5.js?body=1" for 127.0.0.1 at 2016-01-20 20:13:02 -0600
+
+
+Started GET "/assets/bootstrap/tab.self-122235057fbd4c6c7da377d59dc58f47b44cb1088a2e38e6ee6ce9d8ac29a26a.js?body=1" for 127.0.0.1 at 2016-01-20 20:13:02 -0600
+
+
+Started GET "/assets/bootstrap/transition.self-09ff30b1e8a93d1f7728b9855f55d9c9d8d5734c8861e0d8139994e50944572a.js?body=1" for 127.0.0.1 at 2016-01-20 20:13:02 -0600
+
+
+Started GET "/assets/bootstrap/scrollspy.self-a155b9d4b2f978905f0326c0f6635e1134fe91c6bfbfcbad079fa24a9fef2b0e.js?body=1" for 127.0.0.1 at 2016-01-20 20:13:02 -0600
+
+
+Started GET "/assets/bootstrap/modal.self-72f95ffa1071297725a9ac91989693d56d1abf23f441a47455073b0da2857a5b.js?body=1" for 127.0.0.1 at 2016-01-20 20:13:02 -0600
+
+
+Started GET "/assets/bootstrap/tooltip.self-11cf547be953f25f511cec668f6690473fd97b2f65502e4032f4030999a3f0c3.js?body=1" for 127.0.0.1 at 2016-01-20 20:13:02 -0600
+
+
+Started GET "/assets/bootstrap/popover.self-77d8e3a2499c1104ef146396a68b82469ee2bdb365199b874694698d10405e9a.js?body=1" for 127.0.0.1 at 2016-01-20 20:13:02 -0600
+
+
+Started GET "/assets/bootstrap-sprockets.self-fbfa5ad7d9aa0afe439ec4ff3883acc4cb92b62cb67c40d674320c9aa1d4642d.js?body=1" for 127.0.0.1 at 2016-01-20 20:13:02 -0600
+
+
+Started GET "/assets/pages.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 127.0.0.1 at 2016-01-20 20:13:02 -0600
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for 127.0.0.1 at 2016-01-20 20:13:02 -0600
+
+
+Started GET "/assets/duck.png" for 127.0.0.1 at 2016-01-20 20:13:02 -0600
+
+
+Started GET "/pages/services" for 127.0.0.1 at 2016-01-20 20:13:05 -0600
+Processing by PagesController#services as HTML
+  Rendered pages/services.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 92ms (Views: 91.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/lock.png" for 127.0.0.1 at 2016-01-20 20:13:05 -0600
+
+
+Started GET "/assets/nerd.png" for 127.0.0.1 at 2016-01-20 20:13:05 -0600
+
+
+Started GET "/assets/bright.png" for 127.0.0.1 at 2016-01-20 20:13:05 -0600
+
+
+Started GET "/pages/about" for 127.0.0.1 at 2016-01-20 20:13:06 -0600
+Processing by PagesController#about as HTML
+  Rendered pages/about.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 126ms (Views: 125.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/Profile.jpg" for 127.0.0.1 at 2016-01-20 20:13:06 -0600
+
+
+Started GET "/assets/ethan.jpg" for 127.0.0.1 at 2016-01-20 20:13:06 -0600
+
+
+Started GET "/assets/longley.jpg" for 127.0.0.1 at 2016-01-20 20:13:06 -0600
+
+
+Started GET "/pages/contact" for 127.0.0.1 at 2016-01-20 20:13:07 -0600
+Processing by PagesController#contact as HTML
+  Rendered pages/contact.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 95ms (Views: 94.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/faq" for 127.0.0.1 at 2016-01-20 20:13:08 -0600
+Processing by PagesController#faq as HTML
+  Rendered pages/faq.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 123ms (Views: 121.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/services" for 127.0.0.1 at 2016-01-20 20:13:09 -0600
+Processing by PagesController#services as HTML
+  Rendered pages/services.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 104ms (Views: 103.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/home" for 127.0.0.1 at 2016-01-20 20:13:11 -0600
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 118ms (Views: 117.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/services" for 127.0.0.1 at 2016-01-20 20:13:31 -0600
+Processing by PagesController#services as HTML
+  Rendered pages/services.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 100ms (Views: 99.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/about" for 127.0.0.1 at 2016-01-20 20:13:32 -0600
+Processing by PagesController#about as HTML
+  Rendered pages/about.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 110ms (Views: 109.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/services" for 127.0.0.1 at 2016-01-20 20:13:33 -0600
+Processing by PagesController#services as HTML
+  Rendered pages/services.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 98ms (Views: 97.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/contact" for 127.0.0.1 at 2016-01-20 20:13:35 -0600
+Processing by PagesController#contact as HTML
+  Rendered pages/contact.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 122ms (Views: 121.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/faq" for 127.0.0.1 at 2016-01-20 20:13:36 -0600
+Processing by PagesController#faq as HTML
+  Rendered pages/faq.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 136ms (Views: 135.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/about" for 127.0.0.1 at 2016-01-20 20:13:37 -0600
+Processing by PagesController#about as HTML
+  Rendered pages/about.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 121ms (Views: 120.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/home" for 127.0.0.1 at 2016-01-20 20:13:47 -0600
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 99ms (Views: 98.8ms | ActiveRecord: 0.0ms)
