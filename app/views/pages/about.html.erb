@@ -1,35 +1,54 @@
 <h1>About Us</h1>
-<p>Meet our scientists!</p>
+<h3>Meet our scientists!</h3>
 <br>
 <br>
-
 <div class="pics">
-	
-	<div style="width:380px;height:425px;-webkit-border-radius: 56px;-moz-border-radius: 56px;border-radius: 56px;border:3px solid #595959;background:rgba(232,232,232,0.5);-webkit-box-shadow: #B3B3B3 17px 17px 17px;-moz-box-shadow: #B3B3B3 17px 17px 17px; box-shadow: #B3B3B3 13px 13px 13px;"><br>
 		<div class="kyle">
-			<img src="/assets/Profile.jpg" style="width:200px; height:200px; border-radius: 150px; border:3px solid #595959">
-			<p><b>Kyle Mallard</b></p>
+		 <img src="/assets/Profile.jpg" style="width:200px; height:200px; border-radius: 150px; border:3px solid #595959">
+		 <h5><b>Kyle Mallard</b></h5>
+		 <button class="button4">View Stats</button>
 		</div>
-	</div>
-	<br>
-	<br>
-	
-	<div style="width:380px;height:425px;-webkit-border-radius: 56px;-moz-border-radius: 56px;border-radius: 56px;border:3px solid #595959;background:rgba(232,232,232,0.5);-webkit-box-shadow: #B3B3B3 17px 17px 17px;-moz-box-shadow: #B3B3B3 17px 17px 17px; box-shadow: #B3B3B3 13px 13px 13px;"><br>
+		<br>
 		<div class="ethan">
 			<img src="/assets/ethan.jpg" style="width:200px; height:200px; border-radius: 150px; border:3px solid #595959">
-			<p><b>Ethan Willis</b></p>
+			<br>
+			<h5><b>Ethan Willis</b></h5>
+			<button class="button5">View Stats</button>
 		</div>
-	</div>
-	<br>
-	<br>
-
-	<div style="width:380px;height:425px;-webkit-border-radius: 56px;-moz-border-radius: 56px;border-radius: 56px;border:3px solid #595959;background:rgba(232,232,232,0.5);-webkit-box-shadow: #B3B3B3 17px 17px 17px;-moz-box-shadow: #B3B3B3 17px 17px 17px; box-shadow: #B3B3B3 13px 13px 13px;"><br>
+		<br>
 	<div class="matthew">
 		<img src="/assets/longley.jpg" style="width:200px; height:200px; border-radius: 150px; border:3px solid #595959">
-		<p><b>Matthew Longley</b></p>
+		<br>
+		<h5><b>Matthew Longley</b></h5>
+		<button class="button6">View Stats</button>
 	</div>
-	<br>
-	<br>
-	<br>
 
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
+<script>
+$(document).ready(function(){
+    $(".button4").click(function(){
+    	$("#div5").fadeOut(10);
+    	$("#div6").fadeOut(10);
+        $("#div4").fadeIn(1000);
+    });
+});
+$(document).ready(function(){
+    $(".button5").click(function(){
+    	$("#div4").fadeOut(10);
+    	$("#div6").fadeOut(10);
+        $("#div5").fadeIn(1000);
+    });
+});
+$(document).ready(function(){
+    $(".button6").click(function(){
+    	$("#div4").fadeOut(10);
+    	$("#div5").fadeOut(10);
+        $("#div6").fadeIn(1000);
+    });
+});
+</script>
 </div>
+<br><br>
+<h4><div id="div4" style="display:none;">&nbsp&nbsp&nbsp&nbspKyle grew up in West Tennessee before joining the military in 2004. After 3 combat tours, he departed with the active component and began his reserve career while pursuing his degree. Currently, Kyle holds a bachelor's in Computer Science from the University of Memphis, and a secret government clearance for working with sensitive information. His specialties are web design, computer performance optimization, and social engineering for security audits.</div></h4>
+<h4><div id="div5" style="display:none;">&nbsp&nbsp&nbsp&nbspCurrently Under Construction</a></div></h4>
+<h4><div id="div6" style="display:none;">&nbsp&nbsp&nbsp&nbspCurrently Under Construction</div></h4>
